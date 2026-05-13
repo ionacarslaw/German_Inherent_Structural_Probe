@@ -1,0 +1,3096 @@
+[
+    {
+        "sent_id": "test-s86",
+        "sent": "Das Fahren wir jetzt seit Jahren hin.",
+        "argument": "Das",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Demonstrativpronomen] Fahren wir jetzt seit Jahren hin.",
+        "caseless_argument": "[Demonstrativpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "train-s11106",
+        "sent": "Sein Kutscher macht es eben so, weil hinter der Mauer der Paradiesgarten war.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            6
+        ],
+        "caseless_sent": "Sein Kutscher macht [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] eben so, weil hinter der Mauer der Paradiesgarten war.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "sent_id": "train-s624",
+        "sent": "Nette Beratung, Umfangreiches Sortiment und viele Artikel die Ich vorher nicht kannte!",
+        "argument": "die",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            16
+        ],
+        "caseless_sent": "Nette Beratung, Umfangreiches Sortiment und viele Artikel [Numerus=Plural|Relativpronomen] Ich vorher nicht kannte!",
+        "caseless_argument": "[Numerus=Plural|Relativpronomen]",
+        "caseless_bert_ids": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+        ]
+    },
+    {
+        "sent_id": "train-s1394",
+        "sent": "Und das zu Preisen, die ich mir als Studentin auch leisten kann.",
+        "argument": "die",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            7
+        ],
+        "caseless_sent": "Und das zu Preisen, [Numerus=Plural|Relativpronomen] ich mir als Studentin auch leisten kann.",
+        "caseless_argument": "[Numerus=Plural|Relativpronomen]",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "sent_id": "train-s12809",
+        "sent": "1623 nahm der Burgkapitän Johann Dietrich Reiffenberg die Insel vollständig in Besitz und nutzte sie als Weidefeld für die Pferde der Wachtposten.",
+        "argument": "sie",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            20
+        ],
+        "caseless_sent": "1623 nahm der Burgkapitän Johann Dietrich Reiffenberg die Insel vollständig in Besitz und nutzte [Person=3|Personalpronomen] als Weidefeld für die Pferde der Wachtposten.",
+        "caseless_argument": "[Person=3|Personalpronomen]",
+        "caseless_bert_ids": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+        ]
+    },
+    {
+        "sent_id": "train-s741",
+        "sent": "Endlich rief mich Herr Eder Mitte September an.",
+        "argument": "mich",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            5
+        ],
+        "caseless_sent": "Endlich rief [Person=1Singular|Personalpronomen] Herr Eder Mitte September an.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "sent_id": "test-s938",
+        "sent": "Um das zu beziffern, benötigt jedoch niemand Umschreibungen mit mißverständlichem Tremolo.",
+        "argument": "das",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            2
+        ],
+        "caseless_sent": "Um [Demonstrativpronomen] zu beziffern, benötigt jedoch niemand Umschreibungen mit mißverständlichem Tremolo.",
+        "caseless_argument": "[Demonstrativpronomen]",
+        "caseless_bert_ids": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "sent_id": "train-s8455",
+        "sent": "Bergmann bezeichnet sie als \"Leitart von Erlensumpfgehölzen in moorig - sumpfigen Tälern und an deren Lehnen in Sandgebieten des Hügel - und Flachlandes.\"",
+        "argument": "sie",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            4
+        ],
+        "caseless_sent": "Bergmann bezeichnet [Person=3|Personalpronomen] als \"Leitart von Erlensumpfgehölzen in moorig - sumpfigen Tälern und an deren Lehnen in Sandgebieten des Hügel - und Flachlandes.\"",
+        "caseless_argument": "[Person=3|Personalpronomen]",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "dev-s13",
+        "sent": "Danke für den schönen Urlaub in Mecklenburg Vorpommern, wir haben ihn sehr genossen.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            16
+        ],
+        "caseless_sent": "Danke für den schönen Urlaub in Mecklenburg Vorpommern, wir haben [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] sehr genossen.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+        ]
+    },
+    {
+        "sent_id": "train-s692",
+        "sent": "Mit einem abwertenden Ton fragte der Polizist nach dem genaueren Ort, den ich dann auch angegeben habe.",
+        "argument": "den",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            19
+        ],
+        "caseless_sent": "Mit einem abwertenden Ton fragte der Polizist nach dem genaueren Ort, [Relativpronomen] ich dann auch angegeben habe.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "sent_id": "train-s5534",
+        "sent": "Zu den wichtigsten Bauten, die er ab 1940 vorwiegend in den Kantonen Zürich und Graubünden realisierte, zählen etliche Einfamilienhäuser, Wohnsiedlungen, Schul - und Gemeindehäuser, Postgebäude, Spitäler und Ausstellungsbauten.",
+        "argument": "die",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            6
+        ],
+        "caseless_sent": "Zu den wichtigsten Bauten, [Numerus=Plural|Relativpronomen] er ab 1940 vorwiegend in den Kantonen Zürich und Graubünden realisierte, zählen etliche Einfamilienhäuser, Wohnsiedlungen, Schul - und Gemeindehäuser, Postgebäude, Spitäler und Ausstellungsbauten.",
+        "caseless_argument": "[Numerus=Plural|Relativpronomen]",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s1350",
+        "sent": "Wir haben es nicht getan und trotzdem gut geschlafen.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Wir haben [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] nicht getan und trotzdem gut geschlafen.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s671",
+        "sent": "Hätten wir es mal angenommen, da unser Zimmer eine Aussicht in die Hotel - Beton - Wüste hatte.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            5
+        ],
+        "caseless_sent": "Hätten wir [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] mal angenommen, da unser Zimmer eine Aussicht in die Hotel - Beton - Wüste hatte.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+        ]
+    },
+    {
+        "sent_id": "train-s1363",
+        "sent": "Was will ich mehr?",
+        "argument": "Was",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Interrogativpronomen] will ich mehr?",
+        "caseless_argument": "[Interrogativpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "train-s876",
+        "sent": "Das fand ich ziemlich daneben.",
+        "argument": "Das",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Demonstrativpronomen] fand ich ziemlich daneben.",
+        "caseless_argument": "[Demonstrativpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "train-s818",
+        "sent": "Wir haben es in vollen Zügen genossen und gehen mit Tränen in den Augen wieder heim.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Wir haben [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] in vollen Zügen genossen und gehen mit Tränen in den Augen wieder heim.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s5066",
+        "sent": "Jedoch setzte Dortmunds Trainer Matthias Sammer ihn in der Folge nur sporadisch ein.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            9
+        ],
+        "caseless_sent": "Jedoch setzte Dortmunds Trainer Matthias Sammer [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] in der Folge nur sporadisch ein.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "sent_id": "train-s1458",
+        "sent": "Das Restaurant genießt auf der Insel einen sehr guten Ruf, deswegen kommen dort auch ab und zu die Einheimischen hin, die es sich leisten können.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            29
+        ],
+        "caseless_sent": "Das Restaurant genießt auf der Insel einen sehr guten Ruf, deswegen kommen dort auch ab und zu die Einheimischen hin, die [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] sich leisten können.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ]
+    },
+    {
+        "sent_id": "train-s195",
+        "sent": "Hier sieht man wirklich was man für seine Wohnung haben muss.",
+        "argument": "was",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            6
+        ],
+        "caseless_sent": "Hier sieht man wirklich [Interrogativpronomen] man für seine Wohnung haben muss.",
+        "caseless_argument": "[Interrogativpronomen]",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "dev-s719",
+        "sent": "Wir prüfen das.",
+        "argument": "das",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            4
+        ],
+        "caseless_sent": "Wir prüfen [Demonstrativpronomen].",
+        "caseless_argument": "[Demonstrativpronomen]",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "sent_id": "test-s78",
+        "sent": "Das nennt man Kundennähe...",
+        "argument": "Das",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Demonstrativpronomen] nennt man Kundennähe...",
+        "caseless_argument": "[Demonstrativpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "train-s4869",
+        "sent": "Ob ihn dabei deren einstige Förderung von Autoren wie Diderot oder d'Alembert antrieb, ist nicht belegt -- sicher ist nur, dass Bourgelat sich seiner Aufgabe mit äußerstem Eifer widmete.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            2
+        ],
+        "caseless_sent": "Ob [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] dabei deren einstige Förderung von Autoren wie Diderot oder d'Alembert antrieb, ist nicht belegt -- sicher ist nur, dass Bourgelat sich seiner Aufgabe mit äußerstem Eifer widmete.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "train-s13830",
+        "sent": "Als erster Mensch kann sie ihn sehen und berühren.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            6
+        ],
+        "caseless_sent": "Als erster Mensch kann sie [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] sehen und berühren.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "sent_id": "test-s846",
+        "sent": "Ja, man hat mich mal außer Gefecht gesetzt.",
+        "argument": "mich",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            5
+        ],
+        "caseless_sent": "Ja, man hat [Person=1Singular|Personalpronomen] mal außer Gefecht gesetzt.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "sent_id": "train-s4724",
+        "sent": "Zudem bekam er eine Nominierung für die Weltmeisterschaft 2009, die er aufgrund einer Verletzung ausschlagen musste.",
+        "argument": "die",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            11
+        ],
+        "caseless_sent": "Zudem bekam er eine Nominierung für die Weltmeisterschaft 2009, [Relativpronomen] er aufgrund einer Verletzung ausschlagen musste.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "train-s8843",
+        "sent": "Gaddafi war anderer Meinung: \"Alles, was das Volk braucht, ist Essen und Trinken\".",
+        "argument": "was",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            11
+        ],
+        "caseless_sent": "Gaddafi war anderer Meinung: \"Alles, [Interrogativpronomen] das Volk braucht, ist Essen und Trinken\".",
+        "caseless_argument": "[Interrogativpronomen]",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "train-s929",
+        "sent": "Kann ihn nur weiterempfehlen!",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Kann [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] nur weiterempfehlen!",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s848",
+        "sent": "Wir Haben Ihn nach einem Tipp der Informationstelle in Boston South Station erhalten; ein gutes, günstiges Hotel.",
+        "argument": "Ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            4,
+            5
+        ],
+        "caseless_sent": "Wir Haben [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] nach einem Tipp der Informationstelle in Boston South Station erhalten; ein gutes, günstiges Hotel.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "sent_id": "train-s3213",
+        "sent": "Stuhl, den vor ihm Charles Armand René de La Trémoille innegehabt hatte.",
+        "argument": "den",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            5
+        ],
+        "caseless_sent": "Stuhl, [Relativpronomen] vor ihm Charles Armand René de La Trémoille innegehabt hatte.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "sent_id": "test-s91",
+        "sent": "Dennoch ist es immer sehr ordentlich, man bekommt alles, was man möchte zu einer sehr guten Qualität",
+        "argument": "was",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            14
+        ],
+        "caseless_sent": "Dennoch ist es immer sehr ordentlich, man bekommt alles, [Relativpronomen] man möchte zu einer sehr guten Qualität",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "sent_id": "dev-s663",
+        "sent": "Ich traf ihn vor kurzem auf einer Demo in Jerusalem.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Ich traf [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] vor kurzem auf einer Demo in Jerusalem.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s892",
+        "sent": "Wir sind wirklich zufrieden und empfehlen ihn deshalb auch gerne weiter.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            13
+        ],
+        "caseless_sent": "Wir sind wirklich zufrieden und empfehlen [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] deshalb auch gerne weiter.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+        ]
+    },
+    {
+        "sent_id": "test-s191",
+        "sent": "Ich kann Sie nur weiterempfehlen.",
+        "argument": "Sie",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Ich kann [Person=3Plural|Personalpronomen] nur weiterempfehlen.",
+        "caseless_argument": "[Person=3Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "sent_id": "test-s564",
+        "sent": "''Wir haben alle Formulierungen vermieden, die irgendein Gesetz in Kuba verletzen könnten'', erklärt mit milder Stimme Castellanos, ''und das hat uns dennoch nicht vor dem Rausschmiß bewahrt.''",
+        "argument": "uns",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            40
+        ],
+        "caseless_sent": "''Wir haben alle Formulierungen vermieden, die irgendein Gesetz in Kuba verletzen könnten'', erklärt mit milder Stimme Castellanos, ''und das hat [Person=1Plural|Personalpronomen] dennoch nicht vor dem Rausschmiß bewahrt.''",
+        "caseless_argument": "[Person=1Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51
+        ]
+    },
+    {
+        "sent_id": "dev-s146",
+        "sent": "Wir hätten es schon ahnen müssen, als sich der vereinbarte Fertigungstermin um Monate nach hinten verschoben.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Wir hätten [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] schon ahnen müssen, als sich der vereinbarte Fertigungstermin um Monate nach hinten verschoben.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "dev-s561",
+        "sent": "Die Sensation, die niemand erwartet hatte?",
+        "argument": "die",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            5
+        ],
+        "caseless_sent": "Die Sensation, [Relativpronomen] niemand erwartet hatte?",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "sent_id": "train-s31",
+        "sent": "Fühlte mich sehr gut aufgehoben.",
+        "argument": "mich",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            4
+        ],
+        "caseless_sent": "Fühlte [Person=1Singular|Personalpronomen] sehr gut aufgehoben.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "sent_id": "dev-s145",
+        "sent": "Leider kein Paradies, sondern ein Glashaus voller Mängel erwartete uns in unserem Wintergarten, der von der Firma Wintergartenbau gefertigt wurde.",
+        "argument": "uns",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            19
+        ],
+        "caseless_sent": "Leider kein Paradies, sondern ein Glashaus voller Mängel erwartete [Person=1Plural|Personalpronomen] in unserem Wintergarten, der von der Firma Wintergartenbau gefertigt wurde.",
+        "caseless_argument": "[Person=1Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "sent_id": "train-s594",
+        "sent": "Hier findet der Musiker alles was er braucht.",
+        "argument": "was",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            6
+        ],
+        "caseless_sent": "Hier findet der Musiker alles [Relativpronomen] er braucht.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-s7601",
+        "sent": "Der Anfang ist eine Umdichtung von Psalm 42:5, den Luther übersetzt hatte: \"Was betrübst du dich, meine Seele, und bist so unruhig in mir?",
+        "argument": "den",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            17
+        ],
+        "caseless_sent": "Der Anfang ist eine Umdichtung von Psalm 42:5, [Relativpronomen] Luther übersetzt hatte: \"Was betrübst du dich, meine Seele, und bist so unruhig in mir?",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "sent_id": "train-s1790",
+        "sent": "Präsident Liamine Zeroual hat es gewagt.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            7
+        ],
+        "caseless_sent": "Präsident Liamine Zeroual hat [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] gewagt.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "sent_id": "train-s1562",
+        "sent": "Die Leute lieben ihr Volk, und sie bringen es trotzdem um, sie können nicht anders.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            11
+        ],
+        "caseless_sent": "Die Leute lieben ihr Volk, und sie bringen [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] trotzdem um, sie können nicht anders.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+        ]
+    },
+    {
+        "sent_id": "train-s257",
+        "sent": "das essen ist sehr gut und auch das frühstück hatte alles was man für einen guten start in den tag braucht.",
+        "argument": "was",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            14
+        ],
+        "caseless_sent": "das essen ist sehr gut und auch das frühstück hatte alles [Relativpronomen] man für einen guten start in den tag braucht.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "sent_id": "train-s932",
+        "sent": "Er hat mich als Mandanten mit übernommen.",
+        "argument": "mich",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Er hat [Person=1Singular|Personalpronomen] als Mandanten mit übernommen.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "sent_id": "train-s380",
+        "sent": "Sie war super freundlich und hat mich zwischen die Termine geschoben.",
+        "argument": "mich",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            9
+        ],
+        "caseless_sent": "Sie war super freundlich und hat [Person=1Singular|Personalpronomen] zwischen die Termine geschoben.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "sent_id": "train-s7591",
+        "sent": "Diese Erkenntnis stürzt ihn in eine doppelte Identitätskrise: Wen genau hat er geliebt?",
+        "argument": "Wen",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            18
+        ],
+        "caseless_sent": "Diese Erkenntnis stürzt ihn in eine doppelte Identitätskrise: [Interrogativpronomen] genau hat er geliebt?",
+        "caseless_argument": "[Interrogativpronomen]",
+        "caseless_bert_ids": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "sent_id": "train-s7591",
+        "sent": "Diese Erkenntnis stürzt ihn in eine doppelte Identitätskrise: Wen genau hat er geliebt?",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            6
+        ],
+        "caseless_sent": "Diese Erkenntnis stürzt [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] in eine doppelte Identitätskrise: Wen genau hat er geliebt?",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "sent_id": "dev-s210",
+        "sent": "Eine Bekannte empfahl mir dann Herr Dr. Sieben und wie sich herausstellte, war der Preis, den ich dort bezahlte 70 % unter dem der anderen beiden Zahnärzte!!!!",
+        "argument": "den",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            24
+        ],
+        "caseless_sent": "Eine Bekannte empfahl mir dann Herr Dr. Sieben und wie sich herausstellte, war der Preis, [Relativpronomen] ich dort bezahlte 70 % unter dem der anderen beiden Zahnärzte!!!!",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "sent_id": "train-s12013",
+        "sent": "Danach durchquert er den Talkessel von Les Plans - sur - Bex, den er durch einen schluchtartigen Ausgang verlässt.",
+        "argument": "den",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            18
+        ],
+        "caseless_sent": "Danach durchquert er den Talkessel von Les Plans - sur - Bex, [Relativpronomen] er durch einen schluchtartigen Ausgang verlässt.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "sent_id": "train-s13242",
+        "sent": "Seine Ehefrau Sophie überlebte ihn um mehr als 30 Jahre.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            7
+        ],
+        "caseless_sent": "Seine Ehefrau Sophie überlebte [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] um mehr als 30 Jahre.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "sent_id": "train-s7429",
+        "sent": "Er schickt ihn in den Garten mit dem Hinweis, sich vor den Bienen in Acht zu nehmen.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            5
+        ],
+        "caseless_sent": "Er schickt [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] in den Garten mit dem Hinweis, sich vor den Bienen in Acht zu nehmen.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+        ]
+    },
+    {
+        "sent_id": "train-s8941",
+        "sent": "Auch während der Paarung wird ein solches, transparent aussehendes Sekundärgift eingesetzt, wobei das Männchen das Weibchen sticht, um es vermutlich ruhigzustellen.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            31
+        ],
+        "caseless_sent": "Auch während der Paarung wird ein solches, transparent aussehendes Sekundärgift eingesetzt, wobei das Männchen das Weibchen sticht, um [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] vermutlich ruhigzustellen.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47
+        ]
+    },
+    {
+        "sent_id": "dev-s117",
+        "sent": "Eigentlich hatte ich mich auf meine neue Küche gefreut... aber ich hätte es wissen müssen.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            21
+        ],
+        "caseless_sent": "Eigentlich hatte ich mich auf meine neue Küche gefreut... aber ich hätte [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] wissen müssen.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+        ]
+    },
+    {
+        "sent_id": "train-s1250",
+        "sent": "Ich kann es nur empfehlen.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Ich kann [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] nur empfehlen.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s426",
+        "sent": "Alles was das Fitnessherz begehrt!",
+        "argument": "was",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            2
+        ],
+        "caseless_sent": "Alles [Relativpronomen] das Fitnessherz begehrt!",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "sent_id": "train-s1628",
+        "sent": "Die sehen es nicht so gern, wenn sich jemand unseren Korps anschließt.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Die sehen [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] nicht so gern, wenn sich jemand unseren Korps anschließt.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s1197",
+        "sent": "Die bieten Geräte der Extraklasse, die Ihr nirgendwo sonst ausprobieren könnt!",
+        "argument": "die",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            9
+        ],
+        "caseless_sent": "Die bieten Geräte der Extraklasse, [Numerus=Plural|Relativpronomen] Ihr nirgendwo sonst ausprobieren könnt!",
+        "caseless_argument": "[Numerus=Plural|Relativpronomen]",
+        "caseless_bert_ids": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "sent_id": "train-s1380",
+        "sent": "Die Firma Busker überzeugte uns durch Termintreue, Genauigkeit und fachmännische Beratung.",
+        "argument": "uns",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            8
+        ],
+        "caseless_sent": "Die Firma Busker überzeugte [Person=1Plural|Personalpronomen] durch Termintreue, Genauigkeit und fachmännische Beratung.",
+        "caseless_argument": "[Person=1Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s2563",
+        "sent": "Der Bergmann Han Sanming reist aus Shanxi nach Fengjie, weil er seine Ehefrau wiederfinden möchte, die ihn vor 16 Jahren mit der kleinen Tochter verlassen hatte.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            24
+        ],
+        "caseless_sent": "Der Bergmann Han Sanming reist aus Shanxi nach Fengjie, weil er seine Ehefrau wiederfinden möchte, die [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] vor 16 Jahren mit der kleinen Tochter verlassen hatte.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+        ]
+    },
+    {
+        "sent_id": "train-s13576",
+        "sent": "Der Aufstand des Mahdi und die Vernichtung der ägyptischen Herrschaft in den nördlich von seiner Provinz gelegenen Bezirken schnitten ihn plötzlich völlig von jeder Verbindung mit seiner Regierung ab und brachten ihn in eine äußerst gefährdete Lage.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            30
+        ],
+        "caseless_sent": "Der Aufstand des Mahdi und die Vernichtung der ägyptischen Herrschaft in den nördlich von seiner Provinz gelegenen Bezirken schnitten [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] plötzlich völlig von jeder Verbindung mit seiner Regierung ab und brachten ihn in eine äußerst gefährdete Lage.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+        ]
+    },
+    {
+        "sent_id": "train-s4323",
+        "sent": "Schafft er es nicht, verliert er seinen Job.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            5
+        ],
+        "caseless_sent": "Schafft er [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] nicht, verliert er seinen Job.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+        ]
+    },
+    {
+        "sent_id": "train-s11103",
+        "sent": "Sie wird einige Male von Arthur sehr verletzt, als sie ihn z.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            12
+        ],
+        "caseless_sent": "Sie wird einige Male von Arthur sehr verletzt, als sie [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] z.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+        ]
+    },
+    {
+        "sent_id": "train-s1869",
+        "sent": "Mecklenburg-Vorpommern ist ein traditionelles Agrarland, warum sollen wir das hier nicht schaffen?",
+        "argument": "das",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            16
+        ],
+        "caseless_sent": "Mecklenburg-Vorpommern ist ein traditionelles Agrarland, warum sollen wir [Demonstrativpronomen] hier nicht schaffen?",
+        "caseless_argument": "[Demonstrativpronomen]",
+        "caseless_bert_ids": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "sent_id": "train-s394",
+        "sent": "Auch das Praxiskonzept mit vielen Ärzten unterschiedlicher Fachrichtungen und Spezialisierungen verhilft zu schneller Hilfe, wenn man sie braucht.",
+        "argument": "sie",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            30
+        ],
+        "caseless_sent": "Auch das Praxiskonzept mit vielen Ärzten unterschiedlicher Fachrichtungen und Spezialisierungen verhilft zu schneller Hilfe, wenn man [Geschlecht=Neutrum|Person=3Plural|Personalpronomen] braucht.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+        ]
+    },
+    {
+        "sent_id": "train-s161",
+        "sent": "Was soll ich sagen... netter Empfang, Möbel nicht die neusten aber OK.",
+        "argument": "Was",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Interrogativpronomen] soll ich sagen... netter Empfang, Möbel nicht die neusten aber OK.",
+        "caseless_argument": "[Interrogativpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "dev-s294",
+        "sent": "Bin immer in der Pappel oder in der Box; Mitarbeiter sind nett und haben Ahnung, von dem was sie tun.",
+        "argument": "was",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            23
+        ],
+        "caseless_sent": "Bin immer in der Pappel oder in der Box; Mitarbeiter sind nett und haben Ahnung, von dem [Relativpronomen] sie tun.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+        ]
+    },
+    {
+        "sent_id": "train-s13732",
+        "sent": "Daraufhin kehrte er 1862 nach Mosul zurück, zumal ihn auch Patriarch Joseph Audo auf Anordnung des Papstes zurückbeordert hatte.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            12
+        ],
+        "caseless_sent": "Daraufhin kehrte er 1862 nach Mosul zurück, zumal [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] auch Patriarch Joseph Audo auf Anordnung des Papstes zurückbeordert hatte.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+        ]
+    },
+    {
+        "sent_id": "train-s9268",
+        "sent": "Ihr erstes Engagement führte sie in das schlesische Kattowitz.",
+        "argument": "sie",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            5
+        ],
+        "caseless_sent": "Ihr erstes Engagement führte [Geschlecht=Feminin|Person=3Singular|Personalpronomen] in das schlesische Kattowitz.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "sent_id": "train-s7586",
+        "sent": "Wo ist die Herrschaft präsent und was gibt sie an Regelungen vor?",
+        "argument": "sie",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            11
+        ],
+        "caseless_sent": "Wo ist die Herrschaft präsent und was gibt [Geschlecht=Feminin|Person=3Singular|Personalpronomen] an Regelungen vor?",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+        ]
+    },
+    {
+        "sent_id": "train-s5725",
+        "sent": "Gott wird mich fragen: -- Nun, was hast du gemacht?",
+        "argument": "was",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            11
+        ],
+        "caseless_sent": "Gott wird mich fragen: -- Nun, [Interrogativpronomen] hast du gemacht?",
+        "caseless_argument": "[Interrogativpronomen]",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "train-s8216",
+        "sent": "Ohms Leistungen, indem er ihn in die Pontificia Commissio de Missionibus Praeparatoria Concilii Vaticani II berief.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            7
+        ],
+        "caseless_sent": "Ohms Leistungen, indem er [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] in die Pontificia Commissio de Missionibus Praeparatoria Concilii Vaticani II berief.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "sent_id": "train-s9984",
+        "sent": "Darauf schickte man ihn nach Kalocsa und von dort zurück nach Pest, um an der dortigen Universität zu lehren.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            7
+        ],
+        "caseless_sent": "Darauf schickte man [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] nach Kalocsa und von dort zurück nach Pest, um an der dortigen Universität zu lehren.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "sent_id": "train-s434",
+        "sent": "das erlebt man selten.",
+        "argument": "das",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Demonstrativpronomen] erlebt man selten.",
+        "caseless_argument": "[Demonstrativpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "train-s9806",
+        "sent": "Sein Weg führte ihn weiter nach Istanbul und Saloniki und schließlich nach Safed in Palästina.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            4
+        ],
+        "caseless_sent": "Sein Weg führte [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] weiter nach Istanbul und Saloniki und schließlich nach Safed in Palästina.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "sent_id": "train-s26",
+        "sent": "Ist einer der besten Restaurationsbetriebe den ich finden konnte.",
+        "argument": "den",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            10
+        ],
+        "caseless_sent": "Ist einer der besten Restaurationsbetriebe [Relativpronomen] ich finden konnte.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "sent_id": "dev-s269",
+        "sent": "Das Zimmer war sauber und hatte Badewann und einen schönen, grossen Flat - TV, den man sonst von 3 - Sterne - Häusern nicht kennt.",
+        "argument": "den",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            23
+        ],
+        "caseless_sent": "Das Zimmer war sauber und hatte Badewann und einen schönen, grossen Flat - TV, [Relativpronomen] man sonst von 3 - Sterne - Häusern nicht kennt.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+        ]
+    },
+    {
+        "sent_id": "train-s989",
+        "sent": "Für uns war es ebenfalls eine Premiere und wir haben es nicht bereut.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            11
+        ],
+        "caseless_sent": "Für uns war es ebenfalls eine Premiere und wir haben [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] nicht bereut.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+        ]
+    },
+    {
+        "sent_id": "train-s570",
+        "sent": "Liegt wahrscheinlich an einer Servicekraft, die das alles garnicht schaffen kann -- schade.",
+        "argument": "das",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            10
+        ],
+        "caseless_sent": "Liegt wahrscheinlich an einer Servicekraft, die [Relativpronomen] alles garnicht schaffen kann -- schade.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "sent_id": "train-s9534",
+        "sent": "Die Internet - Datenbank BoxRec führt ihn als erfolgreichsten türkischen Profiboxer aller Zeiten.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            10
+        ],
+        "caseless_sent": "Die Internet - Datenbank BoxRec führt [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] als erfolgreichsten türkischen Profiboxer aller Zeiten.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+        ]
+    },
+    {
+        "sent_id": "train-s1766",
+        "sent": "Johannes Grasshoff sprach es 1617 aus.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            5
+        ],
+        "caseless_sent": "Johannes Grasshoff sprach [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] 1617 aus.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+        ]
+    },
+    {
+        "sent_id": "train-s10064",
+        "sent": "Carnegie verzichtet auf eine Verfolgung, da das Benzin seines Gefährts nur noch für die Rückreise in seine Stadt reicht und er hat, was er wollte: die Bibel.",
+        "argument": "was",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            32
+        ],
+        "caseless_sent": "Carnegie verzichtet auf eine Verfolgung, da das Benzin seines Gefährts nur noch für die Rückreise in seine Stadt reicht und er hat, [Relativpronomen] er wollte: die Bibel.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38
+        ]
+    },
+    {
+        "sent_id": "train-s7613",
+        "sent": "Um welche Gegenstände oder Entitäten handelt es sich, die mit den Tatsachen oder der Wirklichkeit übereinstimmen sollen, und die wir in diesem Sinne wahr nennen?",
+        "argument": "die",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            31
+        ],
+        "caseless_sent": "Um welche Gegenstände oder Entitäten handelt es sich, die mit den Tatsachen oder der Wirklichkeit übereinstimmen sollen, und [Relativpronomen] wir in diesem Sinne wahr nennen?",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+        ]
+    },
+    {
+        "sent_id": "train-s7444",
+        "sent": "Sein Behandlungsschwerpunkt lag auf der Kurzwellentherapie, die er ab 1933 in der eigenen Klinik durchführte.",
+        "argument": "die",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            16
+        ],
+        "caseless_sent": "Sein Behandlungsschwerpunkt lag auf der Kurzwellentherapie, [Relativpronomen] er ab 1933 in der eigenen Klinik durchführte.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "sent_id": "train-s784",
+        "sent": "Ich habe es bereut meiner Mutter diesen Arzt empfohlen zu haben!",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Ich habe [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] bereut meiner Mutter diesen Arzt empfohlen zu haben!",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s12038",
+        "sent": "Die Konservativen verleumdeten den Gouverneur und beschuldigten ihn der Korruption.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            17
+        ],
+        "caseless_sent": "Die Konservativen verleumdeten den Gouverneur und beschuldigten [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] der Korruption.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+        ]
+    },
+    {
+        "sent_id": "train-s2247",
+        "sent": "Zu seiner außerordentlichen Bekanntheit trug bei, dass Sands Gedichte und traurige Lieder verfasste, auf Zigarettenpapier schrieb, sie in Plastikfolie einwickelte, die von Mithäftlingen per Kuss von Mund zu Mund über deren Besucher herausbefördert wurden.",
+        "argument": "sie",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            29
+        ],
+        "caseless_sent": "Zu seiner außerordentlichen Bekanntheit trug bei, dass Sands Gedichte und traurige Lieder verfasste, auf Zigarettenpapier schrieb, [Person=3Plural|Personalpronomen] in Plastikfolie einwickelte, die von Mithäftlingen per Kuss von Mund zu Mund über deren Besucher herausbefördert wurden.",
+        "caseless_argument": "[Person=3Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+        ]
+    },
+    {
+        "sent_id": "train-s431",
+        "sent": "Ich kann es nur weiter empfehlen!",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Ich kann [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] nur weiter empfehlen!",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s12429",
+        "sent": "Erst Jahre später brachte man das Wrack ab und verschrottete es in Tuzla.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            15
+        ],
+        "caseless_sent": "Erst Jahre später brachte man das Wrack ab und verschrottete [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] in Tuzla.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+        ]
+    },
+    {
+        "sent_id": "train-s6810",
+        "sent": "Er besitzt ebenso die italienische Staatsbürgerschaft, die er sich durch Heirat erworben hat.",
+        "argument": "die",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            11
+        ],
+        "caseless_sent": "Er besitzt ebenso die italienische Staatsbürgerschaft, [Relativpronomen] er sich durch Heirat erworben hat.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "train-s938",
+        "sent": "Hier finde ich meine asiatische Zutaten, die ich sonst nirgendwo finde.",
+        "argument": "die",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            12
+        ],
+        "caseless_sent": "Hier finde ich meine asiatische Zutaten, [Numerus=Plural|Relativpronomen] ich sonst nirgendwo finde.",
+        "caseless_argument": "[Numerus=Plural|Relativpronomen]",
+        "caseless_bert_ids": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "sent_id": "train-s13573",
+        "sent": "Carranzas Männer töten ihn.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            7
+        ],
+        "caseless_sent": "Carranzas Männer töten [Geschlecht=Maskulin|Person=3Singular|Personalpronomen].",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "sent_id": "train-s10045",
+        "sent": "Sie wollen ihn hängen, falls sich keine Frau unter ihnen findet, die ihn heiratet.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            16
+        ],
+        "caseless_sent": "Sie wollen ihn hängen, falls sich keine Frau unter ihnen findet, die [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] heiratet.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+        ]
+    },
+    {
+        "sent_id": "train-s164",
+        "sent": "Ich kann es nur weiter empfehlen.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Ich kann [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] nur weiter empfehlen.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s7472",
+        "sent": "Brennstoff dafür war Torf, den man bei Groß Bellschwitz und Faulen gewann.",
+        "argument": "den",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            9
+        ],
+        "caseless_sent": "Brennstoff dafür war Torf, [Relativpronomen] man bei Groß Bellschwitz und Faulen gewann.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "sent_id": "train-s6532",
+        "sent": "Brecht nahm ihn in seinen Arbeitskreis auf, und Dudow inszenierte 1929 für das \"Theater der Arbeiter\" Anna Gmeiners Heer ohne Helden sowie Brechts Die Maßnahme.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Brecht nahm [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] in seinen Arbeitskreis auf, und Dudow inszenierte 1929 für das \"Theater der Arbeiter\" Anna Gmeiners Heer ohne Helden sowie Brechts Die Maßnahme.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s8457",
+        "sent": "So ging er nach Australien, wo ihn die Ähnlichkeit der Bodenbeschaffenheit der dortigen Goldfelder mit den ihm bekannten Gegenden in Kalifornien zu weiteren Untersuchungen veranlasste.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            8
+        ],
+        "caseless_sent": "So ging er nach Australien, wo [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] die Ähnlichkeit der Bodenbeschaffenheit der dortigen Goldfelder mit den ihm bekannten Gegenden in Kalifornien zu weiteren Untersuchungen veranlasste.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "sent_id": "train-s3548",
+        "sent": "Colonel Samuel Trautman, Rambos Ausbilder, der ihn auf den Vietnamkrieg vorbereitet hat, will ihn für einen Einsatz in Afghanistan gewinnen.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            13
+        ],
+        "caseless_sent": "Colonel Samuel Trautman, Rambos Ausbilder, der [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] auf den Vietnamkrieg vorbereitet hat, will ihn für einen Einsatz in Afghanistan gewinnen.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+        ]
+    },
+    {
+        "sent_id": "train-s480",
+        "sent": "Sie erklärt was sie als nächstes macht, was ich persönlich als sehr wichtig finde.",
+        "argument": "was",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            3
+        ],
+        "caseless_sent": "Sie erklärt [Relativpronomen] sie als nächstes macht, was ich persönlich als sehr wichtig finde.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    {
+        "sent_id": "train-s12955",
+        "sent": "Der Vater druckte Artikel von Lenin und Trotzki in der von ihm herausgegebenen Zeitung The Southern Worker and Labour and Socialist Journal nach und verteilte sie an lokale Mitglieder der Kommunistischen Partei, so dass sein Haus bald als russische Kolonie bekannt war.",
+        "argument": "sie",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            32
+        ],
+        "caseless_sent": "Der Vater druckte Artikel von Lenin und Trotzki in der von ihm herausgegebenen Zeitung The Southern Worker and Labour and Socialist Journal nach und verteilte [Person=3|Personalpronomen] an lokale Mitglieder der Kommunistischen Partei, so dass sein Haus bald als russische Kolonie bekannt war.",
+        "caseless_argument": "[Person=3|Personalpronomen]",
+        "caseless_bert_ids": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+        ]
+    },
+    {
+        "sent_id": "train-s4522",
+        "sent": "Die Zuhälterin Gulabi ist ihre einzige Vertraute, die Hijra versorgt sie mit Cannabis.",
+        "argument": "sie",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            20
+        ],
+        "caseless_sent": "Die Zuhälterin Gulabi ist ihre einzige Vertraute, die Hijra versorgt [Geschlecht=Feminin|Person=3Singular|Personalpronomen] mit Cannabis.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+        ]
+    },
+    {
+        "sent_id": "train-s12495",
+        "sent": "Karl der Große baute ihn ab 775 / 776 aus.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            5
+        ],
+        "caseless_sent": "Karl der Große baute [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] ab 775 / 776 aus.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+        ]
+    },
+    {
+        "sent_id": "train-s1867",
+        "sent": "''Wir haben alle Formulierungen vermieden, die irgendein Gesetz in Kuba verletzen könnten'', erklärt mit milder Stimme Castellanos, ''und das hat uns dennoch nicht vor dem Rausschmiß bewahrt.''",
+        "argument": "uns",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            40
+        ],
+        "caseless_sent": "''Wir haben alle Formulierungen vermieden, die irgendein Gesetz in Kuba verletzen könnten'', erklärt mit milder Stimme Castellanos, ''und das hat [Person=1Plural|Personalpronomen] dennoch nicht vor dem Rausschmiß bewahrt.''",
+        "caseless_argument": "[Person=1Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51
+        ]
+    },
+    {
+        "sent_id": "train-s9354",
+        "sent": "Auch die Festung Monaco verkaufte er mehrmals, erstand sie aber immer wieder zurück.",
+        "argument": "sie",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            11
+        ],
+        "caseless_sent": "Auch die Festung Monaco verkaufte er mehrmals, erstand [Geschlecht=Feminin|Person=3Singular|Personalpronomen] aber immer wieder zurück.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+        ]
+    },
+    {
+        "sent_id": "train-s13567",
+        "sent": "Anfangs respektieren Luigi und Guido Lightning McQueen nicht, als er (wegen der Verwüstungen, die er in der Stadt verursacht hat) und weil er kein Ferrari ist.",
+        "argument": "die",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            26
+        ],
+        "caseless_sent": "Anfangs respektieren Luigi und Guido Lightning McQueen nicht, als er (wegen der Verwüstungen, [Numerus=Plural|Relativpronomen] er in der Stadt verursacht hat) und weil er kein Ferrari ist.",
+        "caseless_argument": "[Numerus=Plural|Relativpronomen]",
+        "caseless_bert_ids": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+        ]
+    },
+    {
+        "sent_id": "train-s1485",
+        "sent": "Ich bin dort mit einer positiven Einstellung hingegangen, da ich einer der beiden Wagen Probefahren wollte und mich letztendlich entscheiden wollte.",
+        "argument": "mich",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            23
+        ],
+        "caseless_sent": "Ich bin dort mit einer positiven Einstellung hingegangen, da ich einer der beiden Wagen Probefahren wollte und [Person=1Singular|Personalpronomen] letztendlich entscheiden wollte.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+        ]
+    },
+    {
+        "sent_id": "train-s9589",
+        "sent": "Seine Recherchen führten ihn zu den meisten großen Bibliotheken Europas und Nordamerikas.",
+        "argument": "ihn",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            5
+        ],
+        "caseless_sent": "Seine Recherchen führten [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] zu den meisten großen Bibliotheken Europas und Nordamerikas.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+        ]
+    },
+    {
+        "sent_id": "dev-s302",
+        "sent": "Da wir nichts mehr zu verlieren hatten, versuchten wir es dort.",
+        "argument": "es",
+        "case": "acc",
+        "argument_position": "object",
+        "argument_type": "pronoun",
+        "classification": 0,
+        "bert_token_ids": [
+            14
+        ],
+        "caseless_sent": "Da wir nichts mehr zu verlieren hatten, versuchten wir [Geschlecht=Neutrum|Person=3Singular|Personalpronomen] dort.",
+        "caseless_argument": "[Geschlecht=Neutrum|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    }
+]

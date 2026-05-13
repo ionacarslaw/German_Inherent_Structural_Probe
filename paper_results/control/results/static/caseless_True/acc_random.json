@@ -1,0 +1,1921 @@
+{
+    "test": [
+        {
+            "sent_id": "dev-s79-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3652787581106429,
+            "1_prob": 0.6347212418893571,
+            "correct": true
+        },
+        {
+            "sent_id": "dev-s538-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4283974260084499,
+            "1_prob": 0.5716025739915501,
+            "correct": true
+        },
+        {
+            "sent_id": "dev-s779-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.41428302893542523,
+            "1_prob": 0.5857169710645748,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s174-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43909590628945516,
+            "1_prob": 0.5609040937105448,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s735-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.46419206184733375,
+            "1_prob": 0.5358079381526663,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s1028-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43909590628945516,
+            "1_prob": 0.5609040937105448,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s1131-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6019021222890066,
+            "1_prob": 0.3980978777109933,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s1596-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.49404765488684443,
+            "1_prob": 0.5059523451131556,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s1611-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43909590628945516,
+            "1_prob": 0.5609040937105448,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s1614-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.45812240501781043,
+            "1_prob": 0.5418775949821896,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s2308-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.46596443487689776,
+            "1_prob": 0.5340355651231022,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s2890-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.46596443487689776,
+            "1_prob": 0.5340355651231022,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s5494-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.2776228824221061,
+            "1_prob": 0.7223771175778939,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s5679-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.24876774562316784,
+            "1_prob": 0.7512322543768322,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s5899-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6565363097641284,
+            "1_prob": 0.34346369023587164,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s7025-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.21839363161387482,
+            "1_prob": 0.7816063683861252,
+            "correct": true
+        },
+        {
+            "sent_id": "test-s732-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.2900355889694345,
+            "1_prob": 0.7099644110305655,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-1",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43909590628945516,
+            "1_prob": 0.5609040937105448,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-2",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.29210305698947725,
+            "1_prob": 0.7078969430105228,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-4",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.45515623008140793,
+            "1_prob": 0.5448437699185921,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-5",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.2707126129292744,
+            "1_prob": 0.7292873870707256,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-6",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-7",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5231629079594422,
+            "1_prob": 0.47683709204055774,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-8",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6431109593947153,
+            "1_prob": 0.3568890406052847,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-9",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43909590628945516,
+            "1_prob": 0.5609040937105448,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-12",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4990697899540606,
+            "1_prob": 0.5009302100459394,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-13",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5730130381666632,
+            "1_prob": 0.4269869618333369,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-14",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4250327783950617,
+            "1_prob": 0.5749672216049383,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-15",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5683125663638351,
+            "1_prob": 0.4316874336361649,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-16",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.37408910881870205,
+            "1_prob": 0.625910891181298,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-17",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.2768563060944642,
+            "1_prob": 0.7231436939055358,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-17",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43909590628945516,
+            "1_prob": 0.5609040937105448,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-20",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.34860596599735205,
+            "1_prob": 0.651394034002648,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-22",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4190186909047722,
+            "1_prob": 0.5809813090952278,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-23",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-24",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3271268553408142,
+            "1_prob": 0.6728731446591858,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-25",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4272863835009203,
+            "1_prob": 0.5727136164990797,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-26",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.41506832066158084,
+            "1_prob": 0.5849316793384192,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-28",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4154101280343143,
+            "1_prob": 0.5845898719656857,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-29",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4765141613656122,
+            "1_prob": 0.5234858386343878,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-30",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-31",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5801153311401069,
+            "1_prob": 0.41988466885989306,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-32",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4304039635365411,
+            "1_prob": 0.5695960364634589,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-34",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.45335383823429976,
+            "1_prob": 0.5466461617657002,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-35",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4765141613656122,
+            "1_prob": 0.5234858386343878,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-37",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.42619771537918916,
+            "1_prob": 0.5738022846208108,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-39",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43909590628945516,
+            "1_prob": 0.5609040937105448,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-40",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.45300184249910547,
+            "1_prob": 0.5469981575008945,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-41",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-42",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.2615848047344338,
+            "1_prob": 0.7384151952655662,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-43",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.46418600846427827,
+            "1_prob": 0.5358139915357217,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-44",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3531907277977264,
+            "1_prob": 0.6468092722022736,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-46",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4767466910777248,
+            "1_prob": 0.5232533089222752,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-47",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4376028913644122,
+            "1_prob": 0.5623971086355878,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-49",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5402147446908868,
+            "1_prob": 0.4597852553091132,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-50",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.7285457298509102,
+            "1_prob": 0.2714542701490899,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-51",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43909590628945516,
+            "1_prob": 0.5609040937105448,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-53",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.28729240207456563,
+            "1_prob": 0.7127075979254344,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-54",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3581178309754923,
+            "1_prob": 0.6418821690245077,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-56",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5016955210851755,
+            "1_prob": 0.4983044789148246,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-57",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.608249834438205,
+            "1_prob": 0.391750165561795,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-58",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4302734445484728,
+            "1_prob": 0.5697265554515272,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-59",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5472513733354909,
+            "1_prob": 0.45274862666450905,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-61",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.563851198578711,
+            "1_prob": 0.436148801421289,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-62",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4429675380797887,
+            "1_prob": 0.5570324619202113,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-63",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5910017675810246,
+            "1_prob": 0.40899823241897537,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-64",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4250327783950617,
+            "1_prob": 0.5749672216049383,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-65",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.39075883492321917,
+            "1_prob": 0.6092411650767808,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-66",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43909590628945516,
+            "1_prob": 0.5609040937105448,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-67",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.49488998172648424,
+            "1_prob": 0.5051100182735158,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-70",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3995951582822207,
+            "1_prob": 0.6004048417177793,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-72",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.34860596599735205,
+            "1_prob": 0.651394034002648,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-73",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-74",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.59695779750356,
+            "1_prob": 0.40304220249644,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-75",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3318576907940578,
+            "1_prob": 0.6681423092059422,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-76",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.2838512819732022,
+            "1_prob": 0.7161487180267978,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-77",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4108932898763247,
+            "1_prob": 0.5891067101236753,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-78",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.8936818798042413,
+            "1_prob": 0.10631812019575869,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-80",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.34445924817432827,
+            "1_prob": 0.6555407518256717,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-82",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-83",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.2347565326581985,
+            "1_prob": 0.7652434673418015,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-84",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43370462670061993,
+            "1_prob": 0.5662953732993801,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-85",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.28555104160293265,
+            "1_prob": 0.7144489583970673,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-86",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4534606342773274,
+            "1_prob": 0.5465393657226726,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-87",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4609636061843556,
+            "1_prob": 0.5390363938156444,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-88",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6103417147852777,
+            "1_prob": 0.3896582852147224,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-89",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4154101280343143,
+            "1_prob": 0.5845898719656857,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-90",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43909590628945516,
+            "1_prob": 0.5609040937105448,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-92",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5997312479866399,
+            "1_prob": 0.4002687520133601,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-93",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4998307565444673,
+            "1_prob": 0.5001692434555327,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-95",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.38702217655262716,
+            "1_prob": 0.6129778234473728,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-97",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.45309442458844895,
+            "1_prob": 0.546905575411551,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-98",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486109067033277,
+            "1_prob": 0.5513890932966723,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-100",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6469813654038838,
+            "1_prob": 0.3530186345961161,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-101",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.38971872204571045,
+            "1_prob": 0.6102812779542895,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-102",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4409781355911846,
+            "1_prob": 0.5590218644088154,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-103",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.534283251935413,
+            "1_prob": 0.4657167480645869,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-104",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5025244307604521,
+            "1_prob": 0.49747556923954794,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-105",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.23739354411366465,
+            "1_prob": 0.7626064558863354,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-106",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5052880732255332,
+            "1_prob": 0.49471192677446685,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-107",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43909590628945516,
+            "1_prob": 0.5609040937105448,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-108",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.45381151190834956,
+            "1_prob": 0.5461884880916504,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-109",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.559904095885233,
+            "1_prob": 0.440095904114767,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-110",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6277234492562633,
+            "1_prob": 0.3722765507437367,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-112",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.32383546115007467,
+            "1_prob": 0.6761645388499253,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-113",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5402147446908868,
+            "1_prob": 0.4597852553091132,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-114",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5063007208905634,
+            "1_prob": 0.4936992791094366,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-115",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5834427327490065,
+            "1_prob": 0.4165572672509935,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-118",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.41305755861674476,
+            "1_prob": 0.5869424413832552,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-119",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4154101280343143,
+            "1_prob": 0.5845898719656857,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-120",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.37658960011060416,
+            "1_prob": 0.6234103998893958,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s8016-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4607616984426973,
+            "1_prob": 0.5392383015573027,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s8622-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s9386-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5599960005748099,
+            "1_prob": 0.44000399942519014,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s9790-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.19421842014526702,
+            "1_prob": 0.805781579854733,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s10042-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4315737665084438,
+            "1_prob": 0.5684262334915562,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s10342-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6964907692281643,
+            "1_prob": 0.3035092307718357,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s10455-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3886980705045754,
+            "1_prob": 0.6113019294954246,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s10734-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6042665131450584,
+            "1_prob": 0.3957334868549416,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s10827-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3517383607834731,
+            "1_prob": 0.6482616392165269,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s10855-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4154101280343143,
+            "1_prob": 0.5845898719656857,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s10919-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5459529576054212,
+            "1_prob": 0.4540470423945788,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s11042-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4184182397346856,
+            "1_prob": 0.5815817602653144,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s11532-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4621085458157448,
+            "1_prob": 0.5378914541842552,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s11813-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.2516646583327897,
+            "1_prob": 0.7483353416672103,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s12035-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.24854047340506646,
+            "1_prob": 0.7514595265949335,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s12676-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4144043439035979,
+            "1_prob": 0.5855956560964021,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s13206-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.709283771059716,
+            "1_prob": 0.29071622894028404,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s13814-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3517383607834731,
+            "1_prob": 0.6482616392165269,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s13885-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4348818530162243,
+            "1_prob": 0.5651181469837757,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-2",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5105886791562109,
+            "1_prob": 0.4894113208437891,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-5",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.26394571607099915,
+            "1_prob": 0.7360542839290009,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-6",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5145281330226221,
+            "1_prob": 0.4854718669773779,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-7",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.24876774562316784,
+            "1_prob": 0.7512322543768322,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-8",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4259254889521342,
+            "1_prob": 0.5740745110478658,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-9",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-10",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.38713766981615494,
+            "1_prob": 0.6128623301838451,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-12",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3251988865668104,
+            "1_prob": 0.6748011134331896,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-13",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5101921155208438,
+            "1_prob": 0.4898078844791563,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-14",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-15",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5025244307604521,
+            "1_prob": 0.49747556923954794,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-16",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.7650199033457252,
+            "1_prob": 0.23498009665427483,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-17",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4154101280343143,
+            "1_prob": 0.5845898719656857,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-18",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4154101280343143,
+            "1_prob": 0.5845898719656857,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-19",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3422765525654524,
+            "1_prob": 0.6577234474345476,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-20",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5402147446908868,
+            "1_prob": 0.4597852553091132,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-21",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.580445874256748,
+            "1_prob": 0.41955412574325196,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-22",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43909590628945516,
+            "1_prob": 0.5609040937105448,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-24",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4144043439035979,
+            "1_prob": 0.5855956560964021,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-25",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-26",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.28555104160293265,
+            "1_prob": 0.7144489583970673,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-27",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6547916492768902,
+            "1_prob": 0.3452083507231098,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-28",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.556450353344144,
+            "1_prob": 0.443549646655856,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-29",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4399549385774497,
+            "1_prob": 0.5600450614225503,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-30",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5402147446908868,
+            "1_prob": 0.4597852553091132,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-31",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6431109593947153,
+            "1_prob": 0.3568890406052847,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-32",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3924999237704868,
+            "1_prob": 0.6075000762295132,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-33",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.7034891135770354,
+            "1_prob": 0.29651088642296464,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-34",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5926783057616078,
+            "1_prob": 0.40732169423839215,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-35",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.45673390236510125,
+            "1_prob": 0.5432660976348987,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-36",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6784203156233574,
+            "1_prob": 0.32157968437664264,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-37",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.24876774562316784,
+            "1_prob": 0.7512322543768322,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-38",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5777678284276637,
+            "1_prob": 0.4222321715723363,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-39",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-41",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5052970947040931,
+            "1_prob": 0.49470290529590694,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-43",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.41151994970265415,
+            "1_prob": 0.5884800502973458,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-44",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3581178309754923,
+            "1_prob": 0.6418821690245077,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-47",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6933280647954427,
+            "1_prob": 0.3066719352045572,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-48",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-49",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.35590939507561337,
+            "1_prob": 0.6440906049243866,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-50",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.2878593189649181,
+            "1_prob": 0.7121406810350819,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-51",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-52",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.31968098829729763,
+            "1_prob": 0.6803190117027024,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-53",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5217220995047505,
+            "1_prob": 0.4782779004952496,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-54",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-56",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.783036937167616,
+            "1_prob": 0.21696306283238395,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-57",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4190186909047722,
+            "1_prob": 0.5809813090952278,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-60",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5467424094183116,
+            "1_prob": 0.45325759058168835,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-61",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.48987740513987876,
+            "1_prob": 0.5101225948601212,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-62",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6342223090459225,
+            "1_prob": 0.3657776909540776,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-63",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4846992897277076,
+            "1_prob": 0.5153007102722924,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-64",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4154101280343143,
+            "1_prob": 0.5845898719656857,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-65",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3692995520927862,
+            "1_prob": 0.6307004479072138,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-66",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5118059877564463,
+            "1_prob": 0.48819401224355374,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-69",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4672837304184555,
+            "1_prob": 0.5327162695815445,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-70",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4579709857623404,
+            "1_prob": 0.5420290142376596,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-71",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5476612459879806,
+            "1_prob": 0.4523387540120194,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-72",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.43650634341652916,
+            "1_prob": 0.5634936565834708,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-73",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5629180142787644,
+            "1_prob": 0.4370819857212356,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-74",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.7699541882114772,
+            "1_prob": 0.2300458117885228,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-75",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.506398196651423,
+            "1_prob": 0.493601803348577,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-76",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.28555104160293265,
+            "1_prob": 0.7144489583970673,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-77",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5218008181169097,
+            "1_prob": 0.4781991818830903,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-79",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4195644903703737,
+            "1_prob": 0.5804355096296263,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-80",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6333296759181405,
+            "1_prob": 0.3666703240818595,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-82",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.45673390236510125,
+            "1_prob": 0.5432660976348987,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-83",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5402147446908868,
+            "1_prob": 0.4597852553091132,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-84",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5793995852033162,
+            "1_prob": 0.42060041479668375,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-85",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.7300336242812868,
+            "1_prob": 0.26996637571871324,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-86",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.42892834356588283,
+            "1_prob": 0.5710716564341172,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-89",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5052970947040931,
+            "1_prob": 0.49470290529590694,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-90",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4846992897277076,
+            "1_prob": 0.5153007102722924,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-91",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5757900863489624,
+            "1_prob": 0.4242099136510376,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-92",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.18240910008603806,
+            "1_prob": 0.8175908999139619,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-93",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5100452386755971,
+            "1_prob": 0.48995476132440285,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-94",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6283627990096025,
+            "1_prob": 0.37163720099039754,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-96",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.5052970947040931,
+            "1_prob": 0.49470290529590694,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-97",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4846992897277076,
+            "1_prob": 0.5153007102722924,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-98",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.3371749661484309,
+            "1_prob": 0.6628250338515691,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-99",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6287858515848506,
+            "1_prob": 0.3712141484151494,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-100",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4016108756386768,
+            "1_prob": 0.5983891243613232,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-101",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.35590939507561337,
+            "1_prob": 0.6440906049243866,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-102",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4154101280343143,
+            "1_prob": 0.5845898719656857,
+            "correct": true
+        }
+    ]
+}

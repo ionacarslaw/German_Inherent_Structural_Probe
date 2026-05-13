@@ -1,0 +1,595 @@
+[
+    {
+        "sent_id": "train-T-1001",
+        "sent": "Uns wird die mündliche Prüfung sicherlich ein Leichtes sein - immerhin hat die Dozentin uns total gut darauf vorbereitet.",
+        "argument": "Uns",
+        "case": "dat",
+        "argument_position": "experiencer oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Person=1Plural|Personalpronomen] wird die mündliche Prüfung sicherlich ein Leichtes sein - immerhin hat die Dozentin uns total gut darauf vorbereitet.",
+        "caseless_argument": "[Person=1Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-T-578",
+        "sent": "Uns kann niemand in der gesamten Familie irgendetwas verschweigen.",
+        "argument": "Uns",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Person=1Plural|Personalpronomen] kann niemand in der gesamten Familie irgendetwas verschweigen.",
+        "caseless_argument": "[Person=1Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-T-231",
+        "sent": "Euch sollte man nie Geheimnisse anvertrauen, ihr plappert viel zu viel.",
+        "argument": "Euch",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Person=2Plural|Personalpronomen] sollte man nie Geheimnisse anvertrauen, ihr plappert viel zu viel.",
+        "caseless_argument": "[Person=2Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-T-42",
+        "sent": "Die Einbrecher raubten ihr ihre gesamte Kunstsammlung und ihren wertvollsten Schmuck.",
+        "argument": "ihr",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            8
+        ],
+        "caseless_sent": "Die Einbrecher raubten [Geschlecht=Feminin|Person=3Singular|Personalpronomen] ihre gesamte Kunstsammlung und ihren wertvollsten Schmuck.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "sent_id": "train-T-79",
+        "sent": "Euch hat der Arzt Hustensaft veschrieben, mir hingegen Tabletten.",
+        "argument": "Euch",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Person=2Plural|Personalpronomen] hat der Arzt Hustensaft veschrieben, mir hingegen Tabletten.",
+        "caseless_argument": "[Person=2Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-s361-C",
+        "sent": "Freunde empfohlen uns den Laden und wir werden diese Empfehlung bestimmt ebenfalls weitergeben.",
+        "argument": "uns",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            6
+        ],
+        "caseless_sent": "Freunde empfohlen [Person=1Plural|Personalpronomen] den Laden und wir werden diese Empfehlung bestimmt ebenfalls weitergeben.",
+        "caseless_argument": "[Person=1Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "train-P-520",
+        "sent": "Im Gartenbau schenkt die Natur euch kontrollierbare Natur.",
+        "argument": "euch",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            9,
+            10
+        ],
+        "caseless_sent": "Im Gartenbau schenkt die Natur [Person=2Plural|Personalpronomen] kontrollierbare Natur.",
+        "caseless_argument": "[Person=2Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "sent_id": "train-s4172",
+        "sent": "Die unter Hausarrest stehende französische Königin gab ihnen einen vertraulichen Brief an ihre Schwester Maria Karolina mit.",
+        "argument": "ihnen",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            11
+        ],
+        "caseless_sent": "Die unter Hausarrest stehende französische Königin gab [Person=3Plural|Personalpronomen] einen vertraulichen Brief an ihre Schwester Maria Karolina mit.",
+        "caseless_argument": "[Person=3Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "sent_id": "train-P-781",
+        "sent": "Die passende Behandlung von Mitarbeitern war ihr ein wichtiges Anliegen, denn sie hatte sich auch hochgearbeitet.",
+        "argument": "ihr",
+        "case": "dat",
+        "argument_position": "experiencer oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            9
+        ],
+        "caseless_sent": "Die passende Behandlung von Mitarbeitern war [Geschlecht=Feminin|Person=3Singular|Personalpronomen] ein wichtiges Anliegen, denn sie hatte sich auch hochgearbeitet.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+        ]
+    },
+    {
+        "sent_id": "train-T-190",
+        "sent": "Die Ziege bot ihm einen Platz an der Tränke an und das Schaf nahm dieses Angebot dankend an.",
+        "argument": "ihm",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            5
+        ],
+        "caseless_sent": "Die Ziege bot [Person=3Singular|Personalpronomen] einen Platz an der Tränke an und das Schaf nahm dieses Angebot dankend an.",
+        "caseless_argument": "[Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "sent_id": "train-P-763",
+        "sent": "Doch es tut euch nicht Leid, denn ihr habt das ganze Schlamassel verursacht!",
+        "argument": "euch",
+        "case": "dat",
+        "argument_position": "experiencer oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            5,
+            6
+        ],
+        "caseless_sent": "Doch es tut [Person=2Plural|Personalpronomen] nicht Leid, denn ihr habt das ganze Schlamassel verursacht!",
+        "caseless_argument": "[Person=2Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "sent_id": "train-T-236",
+        "sent": "Am Küchentisch reißt mir meine Mutter Bücher immer aus der Hand, weil wir ja beim Abendessen nicht lesen dürfen.",
+        "argument": "mir",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            7
+        ],
+        "caseless_sent": "Am Küchentisch reißt [Person=1Singular|Personalpronomen] meine Mutter Bücher immer aus der Hand, weil wir ja beim Abendessen nicht lesen dürfen.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "train-T-862",
+        "sent": "Hat es euch denn geschmeckt?",
+        "argument": "euch",
+        "case": "dat",
+        "argument_position": "experiencer oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            3,
+            4
+        ],
+        "caseless_sent": "Hat es [Person=2Plural|Personalpronomen] denn geschmeckt?",
+        "caseless_argument": "[Person=2Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "sent_id": "train-P-198",
+        "sent": "Sei vorsichtig wie du mich behandelst, ansonsten werde ich niemandem etwas überlassen!",
+        "argument": "niemandem",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            16,
+            17
+        ],
+        "caseless_sent": "Sei vorsichtig wie du mich behandelst, ansonsten werde ich [Indefinitpronomen] etwas überlassen!",
+        "caseless_argument": "[Indefinitpronomen]",
+        "caseless_bert_ids": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "sent_id": "train-P-798",
+        "sent": "Seit wann passt dir das lange Kleid nicht mehr?",
+        "argument": "dir",
+        "case": "dat",
+        "argument_position": "experiencer oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            6
+        ],
+        "caseless_sent": "Seit wann passt [Person=2Singular|Personalpronomen] das lange Kleid nicht mehr?",
+        "caseless_argument": "[Person=2Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "train-P-141",
+        "sent": "Lesende Jugendliche sind weniger gewaltbereit und daher bringt die Oberstufe besonders ihnen Literatur näher.",
+        "argument": "ihnen",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            18
+        ],
+        "caseless_sent": "Lesende Jugendliche sind weniger gewaltbereit und daher bringt die Oberstufe besonders [Person=3Plural|Personalpronomen] Literatur näher.",
+        "caseless_argument": "[Person=3Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29
+        ]
+    },
+    {
+        "sent_id": "train-P-106",
+        "sent": "Auch diese Woche brachte die Katze ihr wieder einen toten Vogel ins Haus.",
+        "argument": "ihr",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            8
+        ],
+        "caseless_sent": "Auch diese Woche brachte die Katze [Geschlecht=Feminin|Person=3Singular|Personalpronomen] wieder einen toten Vogel ins Haus.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "sent_id": "train-T-920",
+        "sent": "Der Verlauf der Ereignisse tut uns nicht leid!",
+        "argument": "uns",
+        "case": "dat",
+        "argument_position": "experiencer oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            7
+        ],
+        "caseless_sent": "Der Verlauf der Ereignisse tut [Person=1Plural|Personalpronomen] nicht leid!",
+        "caseless_argument": "[Person=1Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "train-T-998",
+        "sent": "Ihr ist es ein Leichtes gewesen, die Probeklausur rechtzeitig fertigzustellen.",
+        "argument": "Ihr",
+        "case": "dat",
+        "argument_position": "experiencer oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen] ist es ein Leichtes gewesen, die Probeklausur rechtzeitig fertigzustellen.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "train-P-453",
+        "sent": "Die Apothekerin riet ihr zur Vorsicht, denn ein Fieber ist eine ernstzunehmende Erkrankung.",
+        "argument": "ihr",
+        "case": "dat",
+        "argument_position": "ditransitive oblique object",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            9
+        ],
+        "caseless_sent": "Die Apothekerin riet [Geschlecht=Feminin|Person=3Singular|Personalpronomen] zur Vorsicht, denn ein Fieber ist eine ernstzunehmende Erkrankung.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+        ]
+    }
+]

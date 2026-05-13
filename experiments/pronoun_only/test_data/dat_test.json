@@ -1,0 +1,1577 @@
+[
+    {
+        "sent_id": "train-s174-C",
+        "sent": "Mir wurde zu meinem Recht geholfen, als ich probleme mit einer Bank hatte.",
+        "argument": "Mir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Person=1Singular|Personalpronomen] wurde zu meinem Recht geholfen, als ich probleme mit einer Bank hatte.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-s1028-C",
+        "sent": "Mir wurde bei der Steuererklärung für 2009 von Herr Herzgen sehr geholfen.",
+        "argument": "Mir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Person=1Singular|Personalpronomen] wurde bei der Steuererklärung für 2009 von Herr Herzgen sehr geholfen.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-s1611-C",
+        "sent": "Manche Männer können da ein Hemmschuh sein, mir wurde von meinem sehr geholfen.",
+        "argument": "mir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            12
+        ],
+        "caseless_sent": "Manche Männer können da ein Hemmschuh sein, [Person=1Singular|Personalpronomen] wurde von meinem sehr geholfen.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "sent_id": "train-s5679-C",
+        "sent": "Dort verteilte die Zeitung Daily Herald eine große Menge von Kameras, dem wurde von weiteren Tageszeitungen und auch Zigarettenfabrikanten gefolgt.",
+        "argument": "dem",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            15
+        ],
+        "caseless_sent": "Dort verteilte die Zeitung Daily Herald eine große Menge von Kameras, [Demonstrativpronomen] wurde von weiteren Tageszeitungen und auch Zigarettenfabrikanten gefolgt.",
+        "caseless_argument": "[Demonstrativpronomen]",
+        "caseless_bert_ids": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+        ]
+    },
+    {
+        "sent_id": "test-P-1",
+        "sent": "Mir wurde geschadet und ich war traurig deswegen.",
+        "argument": "Mir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Person=1Singular|Personalpronomen] wurde geschadet und ich war traurig deswegen.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-P-6",
+        "sent": "Ihr wird schon nicht geschadet wenn sie einmal im Leben einen Kuchen bäckt.",
+        "argument": "Ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen] wird schon nicht geschadet wenn sie einmal im Leben einen Kuchen bäckt.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "test-P-9",
+        "sent": "Letzens als ich am Weg in die Schule war wurde mir gedroht.",
+        "argument": "mir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            13
+        ],
+        "caseless_sent": "Letzens als ich am Weg in die Schule war wurde [Person=1Singular|Personalpronomen] gedroht.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "sent_id": "test-P-17",
+        "sent": "Meinem Bruder wurde immer widersprochen, aber mir wurde immer zugehört.",
+        "argument": "mir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            12
+        ],
+        "caseless_sent": "Meinem Bruder wurde immer widersprochen, aber [Person=1Singular|Personalpronomen] wurde immer zugehört.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "sent_id": "test-P-23",
+        "sent": "Ihr wird von manchen Familienmitgliedern noch immer nicht zum Master gratuliert.",
+        "argument": "Ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen] wird von manchen Familienmitgliedern noch immer nicht zum Master gratuliert.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "test-P-28",
+        "sent": "Ihm wird selten vertraut, aber das stört ihn nicht, denn er ist sowieso gerne alleine in seiner Welt.",
+        "argument": "Ihm",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen] wird selten vertraut, aber das stört ihn nicht, denn er ist sowieso gerne alleine in seiner Welt.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "test-P-30",
+        "sent": "Wenn sie sich mehr anstrengt, dann wir ihr auch früher oder später verziehen.",
+        "argument": "ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            11
+        ],
+        "caseless_sent": "Wenn sie sich mehr anstrengt, dann wir [Geschlecht=Feminin|Person=3Singular|Personalpronomen] auch früher oder später verziehen.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+        ]
+    },
+    {
+        "sent_id": "test-P-39",
+        "sent": "Seit meinem Streit mit meiner Mitbewohnerin wird mir in der Wohnung eher ausgewichen.",
+        "argument": "mir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            14
+        ],
+        "caseless_sent": "Seit meinem Streit mit meiner Mitbewohnerin wird [Person=1Singular|Personalpronomen] in der Wohnung eher ausgewichen.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "sent_id": "test-P-41",
+        "sent": "Ihr wurde im Leben viel ermöglicht, denn ihre Großeltern haben schon für sie gespart bevor es sie überhaupt gab.",
+        "argument": "Ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen] wurde im Leben viel ermöglicht, denn ihre Großeltern haben schon für sie gespart bevor es sie überhaupt gab.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "test-P-49",
+        "sent": "Sie arbeiten gerne im Bildungsbereich, denn dort wird ihnen oft bedingungslos zugehört.",
+        "argument": "ihnen",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            11
+        ],
+        "caseless_sent": "Sie arbeiten gerne im Bildungsbereich, denn dort wird [Person=3Plural|Personalpronomen] oft bedingungslos zugehört.",
+        "caseless_argument": "[Person=3Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "sent_id": "test-P-51",
+        "sent": "Wenn ich schlaue Fragen stelle, dann wird mir nie geantwortet, aber wenn meine Kollegin etwas fragt, dann wollen ihr alle sofort antworten!",
+        "argument": "mir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            12
+        ],
+        "caseless_sent": "Wenn ich schlaue Fragen stelle, dann wird [Person=1Singular|Personalpronomen] nie geantwortet, aber wenn meine Kollegin etwas fragt, dann wollen ihr alle sofort antworten!",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "sent_id": "test-P-66",
+        "sent": "Mir wird entweder gefolgt oder es werden ernshafte Konsequenzen gezogen.",
+        "argument": "Mir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Person=1Singular|Personalpronomen] wird entweder gefolgt oder es werden ernshafte Konsequenzen gezogen.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-P-73",
+        "sent": "Ihre Vorschläge sind äußerst intelligent, aber trotdem wird ihr oft nur widersprochen.",
+        "argument": "ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            14
+        ],
+        "caseless_sent": "Ihre Vorschläge sind äußerst intelligent, aber trotdem wird [Geschlecht=Feminin|Person=3Singular|Personalpronomen] oft nur widersprochen.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31
+        ]
+    },
+    {
+        "sent_id": "test-P-82",
+        "sent": "Ihr wird ständig gratuliert, aber insgeheim ärgert sie sich über sich selbst.",
+        "argument": "Ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen] wird ständig gratuliert, aber insgeheim ärgert sie sich über sich selbst.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "test-P-89",
+        "sent": "Niemals wird ihm verzeiht werden!",
+        "argument": "ihm",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            4
+        ],
+        "caseless_sent": "Niemals wird [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] verzeiht werden!",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "sent_id": "test-P-90",
+        "sent": "Mir wird normalerweise immer nur mit Hausarrest gedroht, aber ich glaube dieses Mal meinen meine Eltern es ernst.",
+        "argument": "Mir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Person=1Singular|Personalpronomen] wird normalerweise immer nur mit Hausarrest gedroht, aber ich glaube dieses Mal meinen meine Eltern es ernst.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-P-107",
+        "sent": "Wann wird mir endlich für meine vielen Fehler verziehen?",
+        "argument": "mir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            4
+        ],
+        "caseless_sent": "Wann wird [Person=1Singular|Personalpronomen] endlich für meine vielen Fehler verziehen?",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "sent_id": "test-P-113",
+        "sent": "Wieso wurde ihnen nicht entgegengekommen?",
+        "argument": "ihnen",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            4
+        ],
+        "caseless_sent": "Wieso wurde [Person=3Plural|Personalpronomen] nicht entgegengekommen?",
+        "caseless_argument": "[Person=3Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "sent_id": "test-P-119",
+        "sent": "Meinem Projekt wurde nicht geholfen; ihm wurde nur geschadet, und meine Freundinnen hatten mir ihre Unterstützung versprochen - grausamst!",
+        "argument": "ihm",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            10
+        ],
+        "caseless_sent": "Meinem Projekt wurde nicht geholfen; [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] wurde nur geschadet, und meine Freundinnen hatten mir ihre Unterstützung versprochen - grausamst!",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+        ]
+    },
+    {
+        "sent_id": "train-s8622-C",
+        "sent": "Ihr wurde von den Barbesuchern geholfen.",
+        "argument": "Ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen] wurde von den Barbesuchern geholfen.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "train-s10827-C",
+        "sent": "Dem französischen Kardinal Joyeus gelang schließlich ein Kompromiss, dem von beiden Parteien widerwillig zugestimmt wurde.",
+        "argument": "dem",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            14
+        ],
+        "caseless_sent": "Dem französischen Kardinal Joyeus gelang schließlich ein Kompromiss, [Relativpronomen] von beiden Parteien widerwillig zugestimmt wurde.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "sent_id": "train-s10855-C",
+        "sent": "Ihm wurde von 1990 bis 1997 von André Gouron (Montpellier) gefolgt.",
+        "argument": "Ihm",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen] wurde von 1990 bis 1997 von André Gouron (Montpellier) gefolgt.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "train-s13814-C",
+        "sent": "Dieses Schisma, dem noch durch eine Reihe weiterer Spaltungen gefolgt wird, führte zu einer ganzen Schar von differierenden Theosophischen Gesellschaften, deren Trennung bis heute andauert.",
+        "argument": "dem",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            6
+        ],
+        "caseless_sent": "Dieses Schisma, [Relativpronomen] noch durch eine Reihe weiterer Spaltungen gefolgt wird, führte zu einer ganzen Schar von differierenden Theosophischen Gesellschaften, deren Trennung bis heute andauert.",
+        "caseless_argument": "[Relativpronomen]",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-T-7",
+        "sent": "Dieser wird durch ähnliche Vorgänge geschadet.",
+        "argument": "Dieser",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Demonstrativpronomen] wird durch ähnliche Vorgänge geschadet.",
+        "caseless_argument": "[Demonstrativpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "test-T-9",
+        "sent": "Ihr wurde dabei geholfen, den Mann zu verklagen, der ihre Tasche geklaut hatte.",
+        "argument": "Ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen] wurde dabei geholfen, den Mann zu verklagen, der ihre Tasche geklaut hatte.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "test-T-14",
+        "sent": "Endlich wurde ihr geglaubt - sie konnte ihr Glück kaum fassen.",
+        "argument": "ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            4
+        ],
+        "caseless_sent": "Endlich wurde [Geschlecht=Feminin|Person=3Singular|Personalpronomen] geglaubt - sie konnte ihr Glück kaum fassen.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21
+        ]
+    },
+    {
+        "sent_id": "test-T-17",
+        "sent": "Ihm wurde nie geantwortet und er musste lernen, damit zu leben.",
+        "argument": "Ihm",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen] wurde nie geantwortet und er musste lernen, damit zu leben.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "test-T-18",
+        "sent": "Ihm wurde für seine Taten im Jahr 2008 nie verziehen.",
+        "argument": "Ihm",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen] wurde für seine Taten im Jahr 2008 nie verziehen.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "test-T-20",
+        "sent": "Ihnen wird widersprochen und der Antrag wird abgelehnt.",
+        "argument": "Ihnen",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Person=3Plural|Personalpronomen] wird widersprochen und der Antrag wird abgelehnt.",
+        "caseless_argument": "[Person=3Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-T-22",
+        "sent": "Mir wurde geraten in ein anderes Land zu ziehen.",
+        "argument": "Mir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Person=1Singular|Personalpronomen] wurde geraten in ein anderes Land zu ziehen.",
+        "caseless_argument": "[Person=1Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-T-25",
+        "sent": "Ihr wurde mit Offenheit und Verständnis begegnet.",
+        "argument": "Ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen] wurde mit Offenheit und Verständnis begegnet.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "test-T-30",
+        "sent": "Ihnen wurde mit Blumen, Sekt und Kuchen gedankt.",
+        "argument": "Ihnen",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Person=3Plural|Personalpronomen] wurde mit Blumen, Sekt und Kuchen gedankt.",
+        "caseless_argument": "[Person=3Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-T-35",
+        "sent": "Dir wurde doch bisher immer vertraut, warum sollte es jetzt anders sein?",
+        "argument": "Dir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Person=2Singular|Personalpronomen] wurde doch bisher immer vertraut, warum sollte es jetzt anders sein?",
+        "caseless_argument": "[Person=2Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-T-37",
+        "sent": "Diesem wurde verziehen, sobald er sich entschuldigte.",
+        "argument": "Diesem",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Demonstrativpronomen] wurde verziehen, sobald er sich entschuldigte.",
+        "caseless_argument": "[Demonstrativpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "test-T-39",
+        "sent": "Ihr wurde in der Regel bezüglich der angewandten Relativitätstheorie im Feld der maschinellen Quantenmechanik und theoretischen Teilchenphysik nie widersprochen.",
+        "argument": "Ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen] wurde in der Regel bezüglich der angewandten Relativitätstheorie im Feld der maschinellen Quantenmechanik und theoretischen Teilchenphysik nie widersprochen.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "test-T-41",
+        "sent": "Euch wurde doch geraten, mehr zu schlafen - warum macht ihr das dann nicht?.",
+        "argument": "Euch",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Person=2Plural|Personalpronomen] wurde doch geraten, mehr zu schlafen - warum macht ihr das dann nicht?.",
+        "caseless_argument": "[Person=2Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-T-48",
+        "sent": "Wenn sie diese neue Stelle bekommt, dann wird ihr für ihre Karriere im Bereich der Rechtswissenschaften einiges ermöglicht werden.",
+        "argument": "ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            11
+        ],
+        "caseless_sent": "Wenn sie diese neue Stelle bekommt, dann wird [Geschlecht=Feminin|Person=3Singular|Personalpronomen] für ihre Karriere im Bereich der Rechtswissenschaften einiges ermöglicht werden.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+        ]
+    },
+    {
+        "sent_id": "test-T-51",
+        "sent": "Die Forscherin hat ihren ersten Nobelpreis vor wenigen Minuten gewonnen und ihr wurde für diese außergewöhnliche Leistung bereits überschwänglich gratuliert.",
+        "argument": "ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            15
+        ],
+        "caseless_sent": "Die Forscherin hat ihren ersten Nobelpreis vor wenigen Minuten gewonnen und [Geschlecht=Feminin|Person=3Singular|Personalpronomen] wurde für diese außergewöhnliche Leistung bereits überschwänglich gratuliert.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+        ]
+    },
+    {
+        "sent_id": "test-T-54",
+        "sent": "Ihr wurde aufmerksam zugehört, weil sie für die Aufgabe wichtige Hintergründe erläuterte.",
+        "argument": "Ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen] wurde aufmerksam zugehört, weil sie für die Aufgabe wichtige Hintergründe erläuterte.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "test-T-60",
+        "sent": "Das kleine Mädchen hat mehrfach gesagt, dass Einhörner ihre Lieblingstiere sind und trotzdem wird ihr dauernd widersprochen, dass Einhörner doch gar keine echten Tiere seien.",
+        "argument": "ihr",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            23
+        ],
+        "caseless_sent": "Das kleine Mädchen hat mehrfach gesagt, dass Einhörner ihre Lieblingstiere sind und trotzdem wird [Geschlecht=Feminin|Person=3Singular|Personalpronomen] dauernd widersprochen, dass Einhörner doch gar keine echten Tiere seien.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40
+        ]
+    },
+    {
+        "sent_id": "test-T-63",
+        "sent": "Uns wird gedient werden!",
+        "argument": "Uns",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Person=1Plural|Personalpronomen] wird gedient werden!",
+        "caseless_argument": "[Person=1Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-T-64",
+        "sent": "Der Präsident hatte einen Wutanfall, als er seine Machtlosigkeit realisierte, aber ihm wurde gut zugeredet.",
+        "argument": "ihm",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            19
+        ],
+        "caseless_sent": "Der Präsident hatte einen Wutanfall, als er seine Machtlosigkeit realisierte, aber [Geschlecht=Maskulin|Person=3Singular|Personalpronomen] wurde gut zugeredet.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "sent_id": "test-T-82",
+        "sent": "Dir wird doch damit gedient, wenn andere Aufgaben für dich übernehmen - ich verstehe also überhaupt nicht, warum du dich beschwerst.",
+        "argument": "Dir",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1
+        ],
+        "caseless_sent": "[Person=2Singular|Personalpronomen] wird doch damit gedient, wenn andere Aufgaben für dich übernehmen - ich verstehe also überhaupt nicht, warum du dich beschwerst.",
+        "caseless_argument": "[Person=2Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-T-89",
+        "sent": "Euch wird maßgeblich geholfen werden, wenn ihr erstmal die Grundprinzipien der Theorie und die Anwendung dieser verstanden habt.",
+        "argument": "Euch",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Person=2Plural|Personalpronomen] wird maßgeblich geholfen werden, wenn ihr erstmal die Grundprinzipien der Theorie und die Anwendung dieser verstanden habt.",
+        "caseless_argument": "[Person=2Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-T-90",
+        "sent": "Uns wird für diese Tat entweder gedankt werden oder wir werden alles rückgängig machen müssen.",
+        "argument": "Uns",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Person=1Plural|Personalpronomen] wird für diese Tat entweder gedankt werden oder wir werden alles rückgängig machen müssen.",
+        "caseless_argument": "[Person=1Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-T-96",
+        "sent": "Euch wird darauf nicht geantwortet werden, da könnt ihr warten bis ihr schwarz werdet.",
+        "argument": "Euch",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Person=2Plural|Personalpronomen] wird darauf nicht geantwortet werden, da könnt ihr warten bis ihr schwarz werdet.",
+        "caseless_argument": "[Person=2Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-T-97",
+        "sent": "Uns wurde die eine Tat verziehen, aber wegen der anderen war sie noch jahrelang nachtragend.",
+        "argument": "Uns",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Person=1Plural|Personalpronomen] wurde die eine Tat verziehen, aber wegen der anderen war sie noch jahrelang nachtragend.",
+        "caseless_argument": "[Person=1Plural|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "test-T-102",
+        "sent": "Ihm wird tatsächlich nur widerwillig gedient, da er kein guter König, sondern in Wahrheit ein echter Tyrann ist.",
+        "argument": "Ihm",
+        "case": "dat",
+        "argument_position": "passive subject",
+        "argument_type": "pronoun",
+        "classification": 1,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen] wird tatsächlich nur widerwillig gedient, da er kein guter König, sondern in Wahrheit ein echter Tyrann ist.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Personalpronomen]",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    }
+]

@@ -1,0 +1,2790 @@
+[
+    {
+        "sent_id": "train-s1141",
+        "sent": "Mit dem atemberaubenden Panoramablick verspricht das Haus nicht zu viel.",
+        "argument": "das Haus",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            13,
+            14
+        ],
+        "caseless_sent": "Mit dem atemberaubenden Panoramablick verspricht [bestimmter Artikel] Haus nicht zu viel.",
+        "caseless_argument": "[bestimmter Artikel] Haus",
+        "caseless_bert_ids": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "train-s1821",
+        "sent": "So gingen die größten Impulse von den Einfamilienhäusern aus.",
+        "argument": "die Impulse",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            3,
+            5,
+            6
+        ],
+        "caseless_sent": "So gingen [Numerus=Plural|bestimmter Artikel] groß Impuls von den Einfamilienhäusern aus.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Impuls",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "train-s1910",
+        "sent": "Die Ministerien sind direkt dem Präsidenten unterstellt.",
+        "argument": "Die Ministerien",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3
+        ],
+        "caseless_sent": "[Numerus=Plural|bestimmter Artikel] Ministerium sind direkt dem Präsidenten unterstellt.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Ministerium",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    {
+        "sent_id": "train-s3915",
+        "sent": "Als die Römer nach Pannonien vordrangen, waren die Jazygen Verbündete des Kaisers Augustus.",
+        "argument": "die Römer",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            2,
+            3
+        ],
+        "caseless_sent": "Als [Numerus=Plural|bestimmter Artikel] Römer nach Pannonien vordrangen, waren die Jazygen Verbündete des Kaisers Augustus.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Römer",
+        "caseless_bert_ids": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "sent_id": "train-s1880",
+        "sent": "Dem Bericht zufolge dürfte das Defizit in der laufenden Periode noch über 160 Billionen Lire liegen.",
+        "argument": "das Defizit",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            5,
+            6,
+            7,
+            8
+        ],
+        "caseless_sent": "Dem Bericht zufolge dürfte [bestimmter Artikel] Defizit in der laufenden Periode noch über 160 Billionen Lire liegen.",
+        "caseless_argument": "[bestimmter Artikel] Defizit",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-s11444",
+        "sent": "Für ihn ist eine geschützte Herkunftsbezeichnung geplant.",
+        "argument": "eine Herkunftsbezeichnung",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            4,
+            8,
+            9,
+            10
+        ],
+        "caseless_sent": "Für ihn ist [indirekter Artikel] geschützt Herkunftsbezeichnung geplant.",
+        "caseless_argument": "[indirekter Artikel] Herkunftsbezeichnung",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "sent_id": "train-s7588",
+        "sent": "Unvergessen ist seine Darstellung des Gymnasialprofessors Bömmel in Die Feuerzangenbowle (Zitat: \"Wat is en Dampfmaschin?)",
+        "argument": "seine Darstellung",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            6,
+            7
+        ],
+        "caseless_sent": "Unvergessen ist [Geschlecht=Maskulin|Person=3Singular|Possessivartikel] Darstellung des Gymnasialprofessors Bömmel in Die Feuerzangenbowle (Zitat: \"Wat is en Dampfmaschin?)",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Possessivartikel] Darstellung",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "sent_id": "train-s13365",
+        "sent": "Das Gotteshaus in Kirche Schaaken, von dem heute lediglich noch eine Ruine steht, war ein für das Samland typischer verputzter Feldstein - und Backsteinbau mit dreiseitig geschlossenem Chor und stammte aus dem 14.",
+        "argument": "Das Gotteshaus",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3
+        ],
+        "caseless_sent": "[bestimmter Artikel] Gotteshaus in Kirche Schaaken, von dem heute lediglich noch eine Ruine steht, war ein für das Samland typischer verputzter Feldstein - und Backsteinbau mit dreiseitig geschlossenem Chor und stammte aus dem 14.",
+        "caseless_argument": "[bestimmter Artikel] Gotteshaus",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "train-s13383",
+        "sent": "Peter Fuchs bietet sich als Austauschgeisel an und die beiden Männer nehmen das Angebot an.",
+        "argument": "die Männer",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            13,
+            15
+        ],
+        "caseless_sent": "Peter Fuchs bietet sich als Austauschgeisel an und [Numerus=Plural|bestimmter Artikel] beide Mann nehmen das Angebot an.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Mann",
+        "caseless_bert_ids": [
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            26
+        ]
+    },
+    {
+        "sent_id": "train-s12135",
+        "sent": "Der Boden besitzt einen hohen Anteil an Schiefer.",
+        "argument": "Der Boden",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[bestimmter Artikel] Boden besitzt einen hohen Anteil an Schiefer.",
+        "caseless_argument": "[bestimmter Artikel] Boden",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "sent_id": "train-s12320",
+        "sent": "Für die Ausbildung dieser Eigenschaften müssen der Boden und das darin enthaltene Wasser Sauerstoff enthalten.",
+        "argument": "der Boden",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            7,
+            8
+        ],
+        "caseless_sent": "Für die Ausbildung dieser Eigenschaften müssen [bestimmter Artikel] Boden und das darin enthaltene Wasser Sauerstoff enthalten.",
+        "caseless_argument": "[bestimmter Artikel] Boden",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-s1055",
+        "sent": "Er ist sehr unfreundlich, seine Praxis ist dunkel und muffig, seine Sprechstundenhilfe ist absolut uninformiert und scheint weder praktisch, noch theoretisch eine Ahnung von Tieren zu haben.",
+        "argument": "seine Sprechstundenhilfe",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+        ],
+        "caseless_sent": "Er ist sehr unfreundlich, seine Praxis ist dunkel und muffig, [Geschlecht=Maskulin|Person=3Singular|Possessivartikel] Sprechstundenhilfe ist absolut uninformiert und scheint weder praktisch, noch theoretisch eine Ahnung von Tieren zu haben.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Possessivartikel] Sprechstundenhilfe",
+        "caseless_bert_ids": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+        ]
+    },
+    {
+        "sent_id": "train-s6515",
+        "sent": "Revolutionär war dabei, dass der Schwerpunkt nicht mehr die Grammatik war, sondern die Lektüre und Kommunikation.",
+        "argument": "der Schwerpunkt",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            7,
+            8
+        ],
+        "caseless_sent": "Revolutionär war dabei, dass [bestimmter Artikel] Schwerpunkt nicht mehr die Grammatik war, sondern die Lektüre und Kommunikation.",
+        "caseless_argument": "[bestimmter Artikel] Schwerpunkt",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-s5507",
+        "sent": "Auf der einen Seite der Erzengel Michael, auf der anderen ein Dämon mit verschmitztem Gesicht, der mit dem Finger auf eine der Schalen drückt, damit sie sich zu seinen Gunsten neige.",
+        "argument": "ein Dämon",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            14,
+            15,
+            16,
+            17
+        ],
+        "caseless_sent": "Auf der einen Seite der Erzengel Michael, auf der anderen [indirekter Artikel] Dämon mit verschmitztem Gesicht, der mit dem Finger auf eine der Schalen drückt, damit sie sich zu seinen Gunsten neige.",
+        "caseless_argument": "[indirekter Artikel] Dämon",
+        "caseless_bert_ids": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "sent_id": "train-s10704",
+        "sent": "Deshalb erhielt das erste Grab in diesem Teil der Nekropole die Bezeichnung 1B.LS1",
+        "argument": "das Grab",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            3,
+            5
+        ],
+        "caseless_sent": "Deshalb erhielt [bestimmter Artikel] erster Grab in diesem Teil der Nekropole die Bezeichnung 1B.LS1",
+        "caseless_argument": "[bestimmter Artikel] Grab",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            9
+        ]
+    },
+    {
+        "sent_id": "train-s8944",
+        "sent": "Die Vereinsfarben sind Rot und Schwarz.",
+        "argument": "Die Vereinsfarben",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "caseless_sent": "[Numerus=Plural|bestimmter Artikel] Vereinsfarbe sind Rot und Schwarz.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Vereinsfarbe",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "sent_id": "train-s11182",
+        "sent": "Die Handlung spielt überwiegend in Pyrmont, Braunschweig und Hannover.",
+        "argument": "Die Handlung",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[bestimmter Artikel] Handlung spielt überwiegend in Pyrmont, Braunschweig und Hannover.",
+        "caseless_argument": "[bestimmter Artikel] Handlung",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "sent_id": "test-s611",
+        "sent": "Die Leute ballen die Faust -- aber nur in der Tasche.",
+        "argument": "Die Leute",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Numerus=Plural|bestimmter Artikel] Leute ballen die Faust -- aber nur in der Tasche.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Leute",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    {
+        "sent_id": "train-s182",
+        "sent": "Die Musik war ok, das Publikum jung.",
+        "argument": "Die Musik",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[bestimmter Artikel] Musik war ok, das Publikum jung.",
+        "caseless_argument": "[bestimmter Artikel] Musik",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "sent_id": "train-s1838",
+        "sent": "Deren Ziel sei häufig die Gründung einer selbständigen beruflichen Existenz.",
+        "argument": "die Gründung",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            6,
+            7
+        ],
+        "caseless_sent": "Deren Ziel sei häufig [bestimmter Artikel] Gründung einer selbständigen beruflichen Existenz.",
+        "caseless_argument": "[bestimmter Artikel] Gründung",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "sent_id": "train-s7565",
+        "sent": "Ebenso ist wiederum die zeitliche Änderung des magnetischen Feldes mit einer räumlichen Änderung des elektrischen Feldes verknüpft.",
+        "argument": "die Änderung",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            4,
+            8
+        ],
+        "caseless_sent": "Ebenso ist wiederum [bestimmter Artikel] zeitlich Änderung des magnetischen Feldes mit einer räumlichen Änderung des elektrischen Feldes verknüpft.",
+        "caseless_argument": "[bestimmter Artikel] Änderung",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-s7617",
+        "sent": "In ihrem ersten Film Wie kommt ein so reizendes Mädchen zu diesem Gewerbe?",
+        "argument": "ein Mädchen",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            7,
+            12
+        ],
+        "caseless_sent": "In ihrem ersten Film Wie kommt [indirekter Artikel] so reizend Mädchen zu diesem Gewerbe?",
+        "caseless_argument": "[indirekter Artikel] Mädchen",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            16
+        ]
+    },
+    {
+        "sent_id": "train-s9011",
+        "sent": "Die Abbildung eins komplexen Wartungsprotokolls, dass aus mehreren DIN A4 Seiten besteht ist so nur unter großen Mühen für den Ausfüllenden möglich.",
+        "argument": "Die Abbildung",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3
+        ],
+        "caseless_sent": "[bestimmter Artikel] Abbildung eins komplexen Wartungsprotokolls, dass aus mehreren DIN A4 Seiten besteht ist so nur unter großen Mühen für den Ausfüllenden möglich.",
+        "caseless_argument": "[bestimmter Artikel] Abbildung",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "train-s1712",
+        "sent": "Die Organisation Greenpeace gab Shell Mitschuld an den Todesurteilen.",
+        "argument": "Die Organisation",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[bestimmter Artikel] Organisation Greenpeace gab Shell Mitschuld an den Todesurteilen.",
+        "caseless_argument": "[bestimmter Artikel] Organisation",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "sent_id": "train-s6823",
+        "sent": "Der blühfähige Teil der Triebe ist ausgeprägt.",
+        "argument": "Der Teil",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            8
+        ],
+        "caseless_sent": "[bestimmter Artikel] blühfähig Teil der Triebe ist ausgeprägt.",
+        "caseless_argument": "[bestimmter Artikel] Teil",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            11
+        ]
+    },
+    {
+        "sent_id": "train-s11229",
+        "sent": "Nachdem das Imponiergehabe nachgelassen und schließlich ganz aufhört hat, verteidigt das Paar sein Revier gemeinsam.",
+        "argument": "das Imponiergehabe",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "caseless_sent": "Nachdem [bestimmter Artikel] Imponiergehabe nachgelassen und schließlich ganz aufhört hat, verteidigt das Paar sein Revier gemeinsam.",
+        "caseless_argument": "[bestimmter Artikel] Imponiergehabe",
+        "caseless_bert_ids": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-s10321",
+        "sent": "Der 28 - Jährige hinterließ eine schwangere Freundin.",
+        "argument": "Der Jährige",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            4,
+            5,
+            6,
+            7
+        ],
+        "caseless_sent": "[bestimmter Artikel] 28 - Jährige hinterließ eine schwangere Freundin.",
+        "caseless_argument": "[bestimmter Artikel] Jährige",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "sent_id": "train-s7191",
+        "sent": "Daher setzte ab den 1960 Jahren die Entwicklung immer schonenderer Ionisationsmethoden ein.",
+        "argument": "die Entwicklung",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            7,
+            8
+        ],
+        "caseless_sent": "Daher setzte ab den 1960 Jahren [bestimmter Artikel] Entwicklung immer schonenderer Ionisationsmethoden ein.",
+        "caseless_argument": "[bestimmter Artikel] Entwicklung",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-s7446",
+        "sent": "Seit der Eingemeindung durch die Stadt Syke 1974 ist die vorher selbstständige Gemeinde Jardinghausen ein Ortsteil der Stadt Syke.",
+        "argument": "die Gemeinde",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            14,
+            19
+        ],
+        "caseless_sent": "Seit der Eingemeindung durch die Stadt Syke 1974 ist [bestimmter Artikel] vorher selbstständig Gemeinde Jardinghausen ein Ortsteil der Stadt Syke.",
+        "caseless_argument": "[bestimmter Artikel] Gemeinde",
+        "caseless_bert_ids": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            22
+        ]
+    },
+    {
+        "sent_id": "test-s97",
+        "sent": "Der Kellner war sehr nett und die Atmosphäre ruhig und entspannt.",
+        "argument": "die Atmosphäre",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            10,
+            11,
+            12,
+            13
+        ],
+        "caseless_sent": "Der Kellner war sehr nett und [bestimmter Artikel] Atmosphäre ruhig und entspannt.",
+        "caseless_argument": "[bestimmter Artikel] Atmosphäre",
+        "caseless_bert_ids": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "dev-s736",
+        "sent": "Die Gewinne liegen nach den Worten des Geschäftsführers seit Jahren zwischen 100 000 und 750 000 Mark nach Steuern.",
+        "argument": "Die Gewinne",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3
+        ],
+        "caseless_sent": "[Numerus=Plural|bestimmter Artikel] Gewinn liegen nach den Worten des Geschäftsführers seit Jahren zwischen 100 000 und 750 000 Mark nach Steuern.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Gewinn",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    {
+        "sent_id": "train-s7448",
+        "sent": "Der Landtagswahlkreis Siegen - Wittgenstein II ist ein Landtagswahlkreis in Nordrhein - Westfalen.",
+        "argument": "Der Landtagswahlkreis",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "caseless_sent": "[bestimmter Artikel] Landtagswahlkreis Siegen - Wittgenstein II ist ein Landtagswahlkreis in Nordrhein - Westfalen.",
+        "caseless_argument": "[bestimmter Artikel] Landtagswahlkreis",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "sent_id": "train-s12465",
+        "sent": "Unter den Interviewten waren auch die Verlagsmanagerin Julia Jäkel, Familienministerin Kristina Schröder und der durch Annette Bruhns und Anne Will befragte SPD - Kanzlerkandidat Peer Steinbrück, zudem gestaltete die in Berlin lebende italienische Künstlerin Monica Bonvicini für die Aktion ein auf Seitengröße abgebildetes Kunstwerk.",
+        "argument": "die Künstlerin",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            49,
+            55,
+            56
+        ],
+        "caseless_sent": "Unter den Interviewten waren auch die Verlagsmanagerin Julia Jäkel, Familienministerin Kristina Schröder und der durch Annette Bruhns und Anne Will befragte SPD - Kanzlerkandidat Peer Steinbrück, zudem gestaltete [indirekter Artikel] in Berlin lebende italienische Künstlerin Monica Bonvicini für die Aktion ein auf Seitengröße abgebildetes Kunstwerk.",
+        "caseless_argument": "[indirekter Artikel] Künstlerin",
+        "caseless_bert_ids": [
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            60,
+            61
+        ]
+    },
+    {
+        "sent_id": "train-s5675",
+        "sent": "Zunächst mussten die Reisenden in Kraslice noch umsteigen, heute verkehren durchgehende Züge in der Relation Zwickau Zentrum - Sokolov in einem Einstundentakt.",
+        "argument": "die Reisenden",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            3,
+            4,
+            5
+        ],
+        "caseless_sent": "Zunächst mussten [Numerus=Plural|bestimmter Artikel] reisend in Kraslice noch umsteigen, heute verkehren durchgehende Züge in der Relation Zwickau Zentrum - Sokolov in einem Einstundentakt.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] reisend",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "sent_id": "train-s3889",
+        "sent": "Mit dem nach dorthin aufstrebendem Dach wird die Assoziation geweckt, als würde das \"Fischerboot\" mit dem Bug gegen eine Welle fahren.",
+        "argument": "das Fischerboot",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            22,
+            24,
+            25
+        ],
+        "caseless_sent": "Mit dem nach dorthin aufstrebendem Dach wird die Assoziation geweckt, als würde [bestimmter Artikel] \"Fischerboot\" mit dem Bug gegen eine Welle fahren.",
+        "caseless_argument": "[bestimmter Artikel] Fischerboot",
+        "caseless_bert_ids": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            28,
+            29
+        ]
+    },
+    {
+        "sent_id": "train-s836",
+        "sent": "Und auch das Angebot, die Qualität und Preise stimmen.",
+        "argument": "das Angebot",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            3,
+            4
+        ],
+        "caseless_sent": "Und auch [bestimmter Artikel] Angebot, die Qualität und Preise stimmen.",
+        "caseless_argument": "[bestimmter Artikel] Angebot",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "sent_id": "train-s12093",
+        "sent": "\"Grenze\" -- Das Wort Terminus bezeichnet unter anderem ein Fachwort einer Fachsprache, die sprachliche Benennung eines gedanklich klar umrissenen, abgegrenzten Begriffs, in der römischen Mythologie den Gott der Grenzsteine oder das Ende einer Frist.",
+        "argument": "Das Wort",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            6,
+            7
+        ],
+        "caseless_sent": "\"Grenze\" -- [bestimmter Artikel] Wort Terminus bezeichnet unter anderem ein Fachwort einer Fachsprache, die sprachliche Benennung eines gedanklich klar umrissenen, abgegrenzten Begriffs, in der römischen Mythologie den Gott der Grenzsteine oder das Ende einer Frist.",
+        "caseless_argument": "[bestimmter Artikel] Wort",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "sent_id": "train-s7109",
+        "sent": "Diese Eigenschaften von Aliskiren sind auch bei älteren Patienten, Diabetikern, Patienten mit renalen und hepatischen Funktionsstörung nicht verändert.",
+        "argument": "Diese Eigenschaften",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Numerus=Plural|Demonstrativpronomen] Eigenschaft von Aliskiren sind auch bei älteren Patienten, Diabetikern, Patienten mit renalen und hepatischen Funktionsstörung nicht verändert.",
+        "caseless_argument": "[Numerus=Plural|Demonstrativpronomen] Eigenschaft",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "test-s405",
+        "sent": "Die Fernfahrer diskutierten über den Kompromiß, und ihr Verband hielt den Streikaufruf aufrecht, weil er grundsätzlich jedes Strafpunktesystem mit Führerscheinentzug ablehnt.",
+        "argument": "ihr Verband",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            16,
+            17
+        ],
+        "caseless_sent": "Die Fernfahrer diskutierten über den Kompromiß, und [Person=3Plural|Possessivartikel] Verband hielt den Streikaufruf aufrecht, weil er grundsätzlich jedes Strafpunktesystem mit Führerscheinentzug ablehnt.",
+        "caseless_argument": "[Person=3Plural|Possessivartikel] Verband",
+        "caseless_bert_ids": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "sent_id": "train-s16",
+        "sent": "Für eine 300 Euro teuere Torte von einem angeblichen Meisterkonditor war das einfach nur furchtbar -- die gelieferte Torte hatte keinerlei Ähnlichkeit mit dem Bild der Torte die wir haben wollten (welches wir ihm ja überlassen hatten).",
+        "argument": "die Torte",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            25,
+            29,
+            30
+        ],
+        "caseless_sent": "Für eine 300 Euro teuere Torte von einem angeblichen Meisterkonditor war das einfach nur furchtbar -- [bestimmter Artikel] geliefert Torte hatte keinerlei Ähnlichkeit mit dem Bild der Torte die wir haben wollten (welches wir ihm ja überlassen hatten).",
+        "caseless_argument": "[bestimmter Artikel] Torte",
+        "caseless_bert_ids": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            32,
+            33
+        ]
+    },
+    {
+        "sent_id": "train-s6937",
+        "sent": "Wird die Teilchendichte N / V erhöht, so wächst die Wahrscheinlichkeit, mit der Moleküle an die Wand stoßen.",
+        "argument": "die Wahrscheinlichkeit",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ],
+        "caseless_sent": "Wird die Teilchendichte N / V erhöht, so wächst [bestimmter Artikel] Wahrscheinlichkeit, mit der Moleküle an die Wand stoßen.",
+        "caseless_argument": "[bestimmter Artikel] Wahrscheinlichkeit",
+        "caseless_bert_ids": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "sent_id": "train-s10270",
+        "sent": "Die romanische Kreuzbasilika entstand.",
+        "argument": "Die Kreuzbasilika",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            4,
+            5,
+            6,
+            7
+        ],
+        "caseless_sent": "[bestimmter Artikel] romanisch Kreuzbasilika entstand.",
+        "caseless_argument": "[bestimmter Artikel] Kreuzbasilika",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "sent_id": "test-s702",
+        "sent": "die Behörden seiner 1983 einseitig ausgerufenen ''Türkischen Republik Nordzypern'' geben nun eilig Besitzzertifikate für das 1974 besetzte und jetzt teils von türkischen Zyprioten, teils von in Nordzypern angesiedelten Festlandstürken bewirtschaftete Land aus.",
+        "argument": "die Behörden",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Numerus=Plural|bestimmter Artikel] Behörde seiner 1983 einseitig ausgerufenen ''Türkischen Republik Nordzypern'' geben nun eilig Besitzzertifikate für das 1974 besetzte und jetzt teils von türkischen Zyprioten, teils von in Nordzypern angesiedelten Festlandstürken bewirtschaftete Land aus.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Behörde",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "sent_id": "test-s482",
+        "sent": "Nicht nur die Schichtarbeiter beschränkten ihre Freizeitaktivität auf Fernsehen, Video oder Musikhören -- auch die Kinder seien dazu gezwungen.",
+        "argument": "die Schichtarbeiter",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "caseless_sent": "Nicht nur [Numerus=Plural|bestimmter Artikel] Schichtarbeiter beschränkten ihre Freizeitaktivität auf Fernsehen, Video oder Musikhören -- auch die Kinder seien dazu gezwungen.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Schichtarbeiter",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "sent_id": "train-s4834",
+        "sent": "Die geplante Investitionssumme beträgt (Stand: 2011) rund 25 Millionen Euro.",
+        "argument": "Die Investitionssumme",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8
+        ],
+        "caseless_sent": "[bestimmter Artikel] geplant Investitionssumme beträgt (Stand: 2011) rund 25 Millionen Euro.",
+        "caseless_argument": "[bestimmter Artikel] Investitionssumme",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "sent_id": "train-s10215",
+        "sent": "Um 1969 bestand der Bahnhof aus sieben Gleisen.",
+        "argument": "der Bahnhof",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            4,
+            5
+        ],
+        "caseless_sent": "Um 1969 bestand [bestimmter Artikel] Bahnhof aus sieben Gleisen.",
+        "caseless_argument": "[bestimmter Artikel] Bahnhof",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ]
+    },
+    {
+        "sent_id": "test-s358",
+        "sent": "Die Bundespolizei erhielt Informationen, denen zufolge das Trio ''dabeigewesen sein könnte, eine Bombe zu bauen''.",
+        "argument": "das Trio",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            10,
+            11
+        ],
+        "caseless_sent": "Die Bundespolizei erhielt Informationen, denen zufolge [bestimmter Artikel] Trio ''dabeigewesen sein könnte, eine Bombe zu bauen''.",
+        "caseless_argument": "[bestimmter Artikel] Trio",
+        "caseless_bert_ids": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "sent_id": "train-s3307",
+        "sent": "Das Nordseebad Burhave ist ein Ortsteil der Gemeinde Butjadingen, Landkreis Wesermarsch, Niedersachsen, Deutschland.",
+        "argument": "Das Nordseebad",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "caseless_sent": "[bestimmter Artikel] Nordseebad Burhave ist ein Ortsteil der Gemeinde Butjadingen, Landkreis Wesermarsch, Niedersachsen, Deutschland.",
+        "caseless_argument": "[bestimmter Artikel] Nordseebad",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "sent_id": "dev-s481",
+        "sent": "Ausserdem ist das Personal sehr freundlich und der Service ist sehr gut.",
+        "argument": "das Personal",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            5,
+            6
+        ],
+        "caseless_sent": "Ausserdem ist [bestimmter Artikel] Personal sehr freundlich und der Service ist sehr gut.",
+        "caseless_argument": "[bestimmter Artikel] Personal",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "sent_id": "train-s1216",
+        "sent": "Die Praxis liegt mitten in Nürnberg und war für mich so gut zu erreichen.",
+        "argument": "Die Praxis",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[bestimmter Artikel] Praxis liegt mitten in Nürnberg und war für mich so gut zu erreichen.",
+        "caseless_argument": "[bestimmter Artikel] Praxis",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "sent_id": "train-s3348",
+        "sent": "Seine Nachfolgerin Xandra Schutte, erste Chefredakteurin einer niederländischen politischen Wochenzeitschrift, nahm 2004 ihren Hut, nachdem eine E - Mail an ihren Verleger Jan Hendrik Schoo durchgesickert war, in der sie zehn Redakteure namentlich schlecht beurteilt hatte.",
+        "argument": "eine Mail",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            27,
+            30
+        ],
+        "caseless_sent": "Seine Nachfolgerin Xandra Schutte, erste Chefredakteurin einer niederländischen politischen Wochenzeitschrift, nahm 2004 ihren Hut, nachdem [indirekter Artikel] E - Mail an ihren Verleger Jan Hendrik Schoo durchgesickert war, in der sie zehn Redakteure namentlich schlecht beurteilt hatte.",
+        "caseless_argument": "[indirekter Artikel] Mail",
+        "caseless_bert_ids": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            35
+        ]
+    },
+    {
+        "sent_id": "train-s9121",
+        "sent": "Das Publikum bevorzugte die Werke von Lully.",
+        "argument": "Das Publikum",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[bestimmter Artikel] Publikum bevorzugte die Werke von Lully.",
+        "caseless_argument": "[bestimmter Artikel] Publikum",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "sent_id": "train-s8728",
+        "sent": "Dieses Kapitel beschäftigt sich mit dem Abschied eines Oberhaupts und zitiert hierfür aus einer irischen Synode, die unterschiedliche Regelungen trifft in Abhängigkeit davon, ob das Oberhaupt ein Priester ist oder nicht.",
+        "argument": "das Oberhaupt",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            38,
+            39,
+            40,
+            41
+        ],
+        "caseless_sent": "Dieses Kapitel beschäftigt sich mit dem Abschied eines Oberhaupts und zitiert hierfür aus einer irischen Synode, die unterschiedliche Regelungen trifft in Abhängigkeit davon, ob [bestimmter Artikel] Oberhaupt ein Priester ist oder nicht.",
+        "caseless_argument": "[bestimmter Artikel] Oberhaupt",
+        "caseless_bert_ids": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ]
+    },
+    {
+        "sent_id": "train-s8459",
+        "sent": "Eine Reise von Triest nach Alexandria dauerte nun nur noch 3 Tage, bis nach Port Said per Eillinie 4 Tage.",
+        "argument": "Eine Reise",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[indirekter Artikel] Reise von Triest nach Alexandria dauerte nun nur noch 3 Tage, bis nach Port Said per Eillinie 4 Tage.",
+        "caseless_argument": "[indirekter Artikel] Reise",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "dev-s6",
+        "sent": "Also dieser Bäcker hat würklich super Bröchten, die kann man einfach nur weiter Empfelen.",
+        "argument": "dieser Bäcker",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            2,
+            3,
+            4
+        ],
+        "caseless_sent": "Also [Demonstrativpronomen] Bäcker hat würklich super Bröchten, die kann man einfach nur weiter Empfelen.",
+        "caseless_argument": "[Demonstrativpronomen] Bäcker",
+        "caseless_bert_ids": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "sent_id": "train-s866",
+        "sent": "Die Massage war ein Traum und die Räumlichkeiten strahlen viel Energie zurück die man mit nach Hause nimmt.",
+        "argument": "die Räumlichkeiten",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            9,
+            10,
+            11,
+            12,
+            13
+        ],
+        "caseless_sent": "Die Massage war ein Traum und [Numerus=Plural|bestimmter Artikel] Räumlichkeit strahlen viel Energie zurück die man mit nach Hause nimmt.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Räumlichkeit",
+        "caseless_bert_ids": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "sent_id": "test-s940",
+        "sent": "Der Mauerbau war rechtmäßig!",
+        "argument": "Der Mauerbau",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3
+        ],
+        "caseless_sent": "[bestimmter Artikel] Mauerbau war rechtmäßig!",
+        "caseless_argument": "[bestimmter Artikel] Mauerbau",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "test-s924",
+        "sent": "Die Miesmuschelfischerei ist dabei ein ständiger Zankapfel zwischen Ökologie und Ökonomie.",
+        "argument": "Die Miesmuschelfischerei",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "caseless_sent": "[bestimmter Artikel] Miesmuschelfischerei ist dabei ein ständiger Zankapfel zwischen Ökologie und Ökonomie.",
+        "caseless_argument": "[bestimmter Artikel] Miesmuschelfischerei",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+        ]
+    },
+    {
+        "sent_id": "train-s11930",
+        "sent": "Obwohl die Familie extra nach Turin umzog, kam ein Transfer nie zustande, da der Verein den Vertrag bereits zwei Monate später wieder aufkündigte.",
+        "argument": "die Familie",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            2,
+            3
+        ],
+        "caseless_sent": "Obwohl [bestimmter Artikel] Familie extra nach Turin umzog, kam ein Transfer nie zustande, da der Verein den Vertrag bereits zwei Monate später wieder aufkündigte.",
+        "caseless_argument": "[bestimmter Artikel] Familie",
+        "caseless_bert_ids": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "train-s10074",
+        "sent": "Das Gesamtpreisgeld belief sich auf 50.000 US - Dollar.",
+        "argument": "Das Gesamtpreisgeld",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "caseless_sent": "[bestimmter Artikel] Gesamtpreisgeld belief sich auf 50.000 US - Dollar.",
+        "caseless_argument": "[bestimmter Artikel] Gesamtpreisgeld",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "sent_id": "train-s5941",
+        "sent": "Die acht Mitglieder des Bundesvorstandes stellen zugleich den Vorstand der Deutschen Rentenversicherung Bund dar.",
+        "argument": "Die Mitglieder",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            3
+        ],
+        "caseless_sent": "[Numerus=Plural|bestimmter Artikel] acht Mitglied des Bundesvorstandes stellen zugleich den Vorstand der Deutschen Rentenversicherung Bund dar.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Mitglied",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            14
+        ]
+    },
+    {
+        "sent_id": "train-s1072",
+        "sent": "Nachdem unsere Tochter wieder mal Zahnschmerzen hatte fragte er einfach bei ihm mal nach.",
+        "argument": "unsere Tochter",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            2,
+            3,
+            4
+        ],
+        "caseless_sent": "Nachdem [Person=1Plural|Possessivartikel] Tochter wieder mal Zahnschmerzen hatte fragte er einfach bei ihm mal nach.",
+        "caseless_argument": "[Person=1Plural|Possessivartikel] Tochter",
+        "caseless_bert_ids": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "sent_id": "train-s2847",
+        "sent": "Zu guter Letzt beschloss der unter Druck stehende Kapitelrat noch den Verkauf weiterer Ländereien.",
+        "argument": "der Kapitelrat",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            7,
+            12,
+            13
+        ],
+        "caseless_sent": "Zu guter Letzt beschloss [bestimmter Artikel] unter Druck stehende Kapitelrat noch den Verkauf weiterer Ländereien.",
+        "caseless_argument": "[bestimmter Artikel] Kapitelrat",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "train-s13944",
+        "sent": "Die Devise des Feuchten Pinsels war: \"Allzeit haarig, straff und feucht.\"",
+        "argument": "Die Devise",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3
+        ],
+        "caseless_sent": "[bestimmter Artikel] Devise des Feuchten Pinsels war: \"Allzeit haarig, straff und feucht.\"",
+        "caseless_argument": "[bestimmter Artikel] Devise",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "train-s763",
+        "sent": "Die untere Etage besitzt einen abgetrennten Raucherraum und einen kleinen Raum, in dem eine Bar und zwei winzige Boxen stehen, aus denen einfach kein Sound rauskommt.",
+        "argument": "kein Sound",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            37,
+            38
+        ],
+        "caseless_sent": "Die untere Etage besitzt einen abgetrennten Raucherraum und einen kleinen Raum, in dem eine Bar und zwei winzige Boxen stehen, aus denen einfach [Indefinitpronomen] Sound rauskommt.",
+        "caseless_argument": "[Indefinitpronomen] Sound",
+        "caseless_bert_ids": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+        ]
+    },
+    {
+        "sent_id": "train-s1816",
+        "sent": "Das Rückkaufprogramm entspricht knapp drei Prozent der Börsenkapitalisierung des Assekuranzriesen.",
+        "argument": "Das Rückkaufprogramm",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "caseless_sent": "[bestimmter Artikel] Rückkaufprogramm entspricht knapp drei Prozent der Börsenkapitalisierung des Assekuranzriesen.",
+        "caseless_argument": "[bestimmter Artikel] Rückkaufprogramm",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "sent_id": "train-s2447",
+        "sent": "Da zwischen der Sexualität des Mannes und der Sexualität der Frau teils erhebliche Unterschiede bestehen, führt diese Diskrepanz bei der Heterosexualität zu mannigfaltigen Abstimmungsschwierigkeiten zwischen den Geschlechtern.",
+        "argument": "diese Diskrepanz",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            23,
+            24,
+            25,
+            26,
+            27
+        ],
+        "caseless_sent": "Da zwischen der Sexualität des Mannes und der Sexualität der Frau teils erhebliche Unterschiede bestehen, führt [Demonstrativpronomen] Diskrepanz bei der Heterosexualität zu mannigfaltigen Abstimmungsschwierigkeiten zwischen den Geschlechtern.",
+        "caseless_argument": "[Demonstrativpronomen] Diskrepanz",
+        "caseless_bert_ids": [
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33
+        ]
+    },
+    {
+        "sent_id": "train-s11900",
+        "sent": "Der Film spielt auf die tatsächlichen Geschehnisse um die Tötung von Bernd Brandes durch Armin Meiwes an.",
+        "argument": "Der Film",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[bestimmter Artikel] Film spielt auf die tatsächlichen Geschehnisse um die Tötung von Bernd Brandes durch Armin Meiwes an.",
+        "caseless_argument": "[bestimmter Artikel] Film",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "sent_id": "train-s12573",
+        "sent": "Der Ort positioniert sich als familienfreundlicher Sommer - und Wintersportort.",
+        "argument": "Der Ort",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[bestimmter Artikel] Ort positioniert sich als familienfreundlicher Sommer - und Wintersportort.",
+        "caseless_argument": "[bestimmter Artikel] Ort",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "sent_id": "train-s2824",
+        "sent": "Als 1806 die jahrhundertealte Verwaltung der Region durch das Niedergericht Hofsteig von der bayrischen Besatzung abgeschafft wurde, entstand die Gemeinde Wolfurt in ihrer heutigen Form.",
+        "argument": "die Gemeinde",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            32,
+            33
+        ],
+        "caseless_sent": "Als 1806 die jahrhundertealte Verwaltung der Region durch das Niedergericht Hofsteig von der bayrischen Besatzung abgeschafft wurde, entstand [bestimmter Artikel] Gemeinde Wolfurt in ihrer heutigen Form.",
+        "caseless_argument": "[bestimmter Artikel] Gemeinde",
+        "caseless_bert_ids": [
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+        ]
+    },
+    {
+        "sent_id": "train-s8674",
+        "sent": "Das Gewicht der geschnittenen Teile geht von 1 Gramm bis 3 kg.",
+        "argument": "Das Gewicht",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[bestimmter Artikel] Gewicht der geschnittenen Teile geht von 1 Gramm bis 3 kg.",
+        "caseless_argument": "[bestimmter Artikel] Gewicht",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "sent_id": "train-s7456",
+        "sent": "Der Hilarfleck färbt sich in Melzers Reagens nicht oder kaum an.",
+        "argument": "Der Hilarfleck",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "caseless_sent": "[bestimmter Artikel] Hilarfleck färbt sich in Melzers Reagens nicht oder kaum an.",
+        "caseless_argument": "[bestimmter Artikel] Hilarfleck",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "sent_id": "train-s4937",
+        "sent": "Die Zahl der Einwohner sank zwischen 1990 und 2007 von 12.679 auf 10.462, was einem Rückgang von knapp 17,5 Prozent entspricht.",
+        "argument": "Die Zahl",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[bestimmter Artikel] Zahl der Einwohner sank zwischen 1990 und 2007 von 12.679 auf 10.462, was einem Rückgang von knapp 17,5 Prozent entspricht.",
+        "caseless_argument": "[bestimmter Artikel] Zahl",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "sent_id": "train-s494",
+        "sent": "Die Kneipe ist gemütlich und richtig knuffig.",
+        "argument": "Die Kneipe",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "caseless_sent": "[bestimmter Artikel] Kneipe ist gemütlich und richtig knuffig.",
+        "caseless_argument": "[bestimmter Artikel] Kneipe",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "sent_id": "train-s13908",
+        "sent": "Eine Statue des Kirchenpatrons St. Martin steht direkt unter der Krone des Hochaltars, darunter eine Statue der Maria Himmelskönigin die von Engeln umgeben ist.",
+        "argument": "Eine Statue",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[indirekter Artikel] Statue des Kirchenpatrons St. Martin steht direkt unter der Krone des Hochaltars, darunter eine Statue der Maria Himmelskönigin die von Engeln umgeben ist.",
+        "caseless_argument": "[indirekter Artikel] Statue",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    {
+        "sent_id": "train-s11059",
+        "sent": "Die Aktiven des Bürgerzentrums haben sich in einem Verein 'Initiative Soziokultur e.V.' zusammengeschlossen und sollen auf Hausversammlungen informiert sowie an der Weiterentwicklung des Bürgerzentrums beteiligt werden.",
+        "argument": "Die Aktiven",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3
+        ],
+        "caseless_sent": "[Numerus=Plural|bestimmter Artikel] Aktive des Bürgerzentrums haben sich in einem Verein 'Initiative Soziokultur e.V.' zusammengeschlossen und sollen auf Hausversammlungen informiert sowie an der Weiterentwicklung des Bürgerzentrums beteiligt werden.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Aktive",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "sent_id": "train-s7101",
+        "sent": "Die Britonen schafften auch möglichst alle Nahrungsmittel und Vieh aus der Reichweite der Legionen, um ihnen die Versorgung zu erschweren.",
+        "argument": "Die Britonen",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3
+        ],
+        "caseless_sent": "[Numerus=Plural|bestimmter Artikel] Briton schafften auch möglichst alle Nahrungsmittel und Vieh aus der Reichweite der Legionen, um ihnen die Versorgung zu erschweren.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Briton",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+        ]
+    },
+    {
+        "sent_id": "train-s4492",
+        "sent": "Dennoch enthalten die gedruckten Ausgaben Essays von bekannten Personen wie Achille Essebac, Claude Farrère, Jean Ferval, and Anatole France.",
+        "argument": "die Ausgaben",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            3,
+            7
+        ],
+        "caseless_sent": "Dennoch enthalten [Numerus=Plural|bestimmter Artikel] gedruckt Ausgabe Essays von bekannten Personen wie Achille Essebac, Claude Farrère, Jean Ferval, and Anatole France.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Ausgabe",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            18
+        ]
+    },
+    {
+        "sent_id": "train-s673",
+        "sent": "Hier hört das Lob auf.",
+        "argument": "das Lob",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            4,
+            5,
+            6
+        ],
+        "caseless_sent": "Hier hört [bestimmter Artikel] Lob auf.",
+        "caseless_argument": "[bestimmter Artikel] Lob",
+        "caseless_bert_ids": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "sent_id": "train-s5736",
+        "sent": "Der Park verfügt über einen großen Campingplatz.",
+        "argument": "Der Park",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[bestimmter Artikel] Park verfügt über einen großen Campingplatz.",
+        "caseless_argument": "[bestimmter Artikel] Park",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "sent_id": "train-s13809",
+        "sent": "1997 erfolgte ein Umzug auf das Gelände und in die Gebäude von Maritime Broadcasting Systems auf der Union Street.",
+        "argument": "ein Umzug",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            3,
+            4,
+            5
+        ],
+        "caseless_sent": "1997 erfolgte [indirekter Artikel] Umzug auf das Gelände und in die Gebäude von Maritime Broadcasting Systems auf der Union Street.",
+        "caseless_argument": "[indirekter Artikel] Umzug",
+        "caseless_bert_ids": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "sent_id": "train-s13079",
+        "sent": "Da ihre Mutter sich nicht um das Kind kümmerte wuchs Iris bei Pflegeeltern auf.",
+        "argument": "ihre Mutter",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            2,
+            3
+        ],
+        "caseless_sent": "Da [Geschlecht=Feminin|Person=3Singular|Possessivartikel] Mutter sich nicht um das Kind kümmerte wuchs Iris bei Pflegeeltern auf.",
+        "caseless_argument": "[Geschlecht=Feminin|Person=3Singular|Possessivartikel] Mutter",
+        "caseless_bert_ids": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22
+        ]
+    },
+    {
+        "sent_id": "train-s10407",
+        "sent": "Das 1889-1894 nach Entwürfen von Max Hasak erbaute Gebäude in der Palisadenstraße 73-74 steht heute unter Denkmalschutz.",
+        "argument": "Das Gebäude",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            14
+        ],
+        "caseless_sent": "[bestimmter Artikel] 1889-1894 nach Entwürfen von Max Hasak erbaute Gebäude in der Palisadenstraße 73-74 steht heute unter Denkmalschutz.",
+        "caseless_argument": "[bestimmter Artikel] Gebäude",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            18
+        ]
+    },
+    {
+        "sent_id": "train-s2521",
+        "sent": "In Doldentrauben oder Doldenrispen stehen viele körbchenförmige Blütenstände, die einen Durchmesser von etwa 2 bis 2,5 cm aufweisen.",
+        "argument": "viele Blütenstände",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            12,
+            18,
+            19
+        ],
+        "caseless_sent": "In Doldentrauben oder Doldenrispen stehen [Numerus=Plural|Indefinitpronomen] körbchenförmig Blütenstand, die einen Durchmesser von etwa 2 bis 2,5 cm aufweisen.",
+        "caseless_argument": "[Numerus=Plural|Indefinitpronomen] Blütenstand",
+        "caseless_bert_ids": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            30,
+            31
+        ]
+    },
+    {
+        "sent_id": "train-s8523",
+        "sent": "Die übrige Unterseite des Rumpfes ist weiß, die Federn sind braunschwarz gesäumt und haben schwarze Spitzen, wodurch ein angedeutetes Schuppenmuster entsteht.",
+        "argument": "die Federn",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            14,
+            15,
+            16
+        ],
+        "caseless_sent": "Die übrige Unterseite des Rumpfes ist weiß, [Numerus=Plural|bestimmter Artikel] Feder sind braunschwarz gesäumt und haben schwarze Spitzen, wodurch ein angedeutetes Schuppenmuster entsteht.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Feder",
+        "caseless_bert_ids": [
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+        ]
+    },
+    {
+        "sent_id": "train-s10974",
+        "sent": "Die Handwurzelknochen waren reduziert, die Zahl der Zehenknochen war erhöht (Hyperphalangie).",
+        "argument": "die Zahl",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            11,
+            12
+        ],
+        "caseless_sent": "Die Handwurzelknochen waren reduziert, [bestimmter Artikel] Zahl der Zehenknochen war erhöht (Hyperphalangie).",
+        "caseless_argument": "[bestimmter Artikel] Zahl",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "sent_id": "train-s8717",
+        "sent": "Die Tibetgazelle war ursprünglich weit über das tibetanische Hochland (Tibet, Ladakh, Sichuan) verbreitet.",
+        "argument": "Die Tibetgazelle",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "caseless_sent": "[Numerus=Plural|bestimmter Artikel] Tibetgazelle war ursprünglich weit über das tibetanische Hochland (Tibet, Ladakh, Sichuan) verbreitet.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Tibetgazelle",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "sent_id": "train-s1831",
+        "sent": "Die Konsequenz der Überlegungen steht noch aus.",
+        "argument": "Die Konsequenz",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "caseless_sent": "[bestimmter Artikel] Konsequenz der Überlegungen steht noch aus.",
+        "caseless_argument": "[bestimmter Artikel] Konsequenz",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "sent_id": "train-s3515",
+        "sent": "Nur von wenigen Arten ist die Lebensweise bekannt.",
+        "argument": "die Lebensweise",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            6,
+            7,
+            8
+        ],
+        "caseless_sent": "Nur von wenigen Arten ist [bestimmter Artikel] Lebensweise bekannt.",
+        "caseless_argument": "[bestimmter Artikel] Lebensweise",
+        "caseless_bert_ids": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-s2200",
+        "sent": "Eines Tages wird das Jahrhundert vielleicht deleuzianisch sein.",
+        "argument": "das Jahrhundert",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            5,
+            6
+        ],
+        "caseless_sent": "Eines Tages wird [bestimmter Artikel] Jahrhundert vielleicht deleuzianisch sein.",
+        "caseless_argument": "[bestimmter Artikel] Jahrhundert",
+        "caseless_bert_ids": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "sent_id": "train-s12212",
+        "sent": "Die Schulen werden jedoch nur von einem kleinen Teil der Bevölkerung genutzt, und wenn, dann besuchen die Kinder oft nur drei bis vier Jahre lang die Primarschule.",
+        "argument": "die Kinder",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            20,
+            21
+        ],
+        "caseless_sent": "Die Schulen werden jedoch nur von einem kleinen Teil der Bevölkerung genutzt, und wenn, dann besuchen [Numerus=Plural|bestimmter Artikel] Kind oft nur drei bis vier Jahre lang die Primarschule.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Kind",
+        "caseless_bert_ids": [
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+        ]
+    },
+    {
+        "sent_id": "train-s3494",
+        "sent": "Für die Predigten lädt dieses Programmteam spezielle Referenten ein.",
+        "argument": "dieses Programmteam",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            8,
+            9,
+            10
+        ],
+        "caseless_sent": "Für die Predigten lädt [Demonstrativpronomen] Programmteam spezielle Referenten ein.",
+        "caseless_argument": "[Demonstrativpronomen] Programmteam",
+        "caseless_bert_ids": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    {
+        "sent_id": "train-s5729",
+        "sent": "Von besonderer Bedeutung ist dabei die Gattung Dianthus, speziell D. caryophyllus, die Schnittnelke.",
+        "argument": "die Gattung",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            7,
+            8
+        ],
+        "caseless_sent": "Von besonderer Bedeutung ist dabei [bestimmter Artikel] Gattung Dianthus, speziell D. caryophyllus, die Schnittnelke.",
+        "caseless_argument": "[bestimmter Artikel] Gattung",
+        "caseless_bert_ids": [
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "sent_id": "train-s1208",
+        "sent": "Die beiden Zahnärzte vermittelten mir einen sehr kompetenten Eindruck bei der zahnärztlichen Beratung und anschließenden Behandlung.",
+        "argument": "Die Zahnärzte",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            3,
+            4,
+            5,
+            6
+        ],
+        "caseless_sent": "[Numerus=Plural|bestimmter Artikel] beide Zahnarzt vermittelten mir einen sehr kompetenten Eindruck bei der zahnärztlichen Beratung und anschließenden Behandlung.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Zahnarzt",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            14,
+            15,
+            16,
+            17
+        ]
+    },
+    {
+        "sent_id": "train-s3638",
+        "sent": "Die 15 Bezirksmannschaftsmeister ermittelten in einer Zwischenrunde in fünf Dreiergruppen die Teilnehmer an der Endrunde.",
+        "argument": "Die Bezirksmannschaftsmeister",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "caseless_sent": "[Numerus=Plural|bestimmter Artikel] 15 Bezirksmannschaftsmeister ermittelten in einer Zwischenrunde in fünf Dreiergruppen die Teilnehmer an der Endrunde.",
+        "caseless_argument": "[Numerus=Plural|bestimmter Artikel] Bezirksmannschaftsmeister",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    },
+    {
+        "sent_id": "train-s12436",
+        "sent": "Seine Tochter, die Witwe des Achaz von Pollheim, verkaufte das Schloss 1647 an Johann von Verdenberg.",
+        "argument": "Seine Tochter",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            2
+        ],
+        "caseless_sent": "[Geschlecht=Maskulin|Person=3Singular|Possessivartikel] Tochter, die Witwe des Achaz von Pollheim, verkaufte das Schloss 1647 an Johann von Verdenberg.",
+        "caseless_argument": "[Geschlecht=Maskulin|Person=3Singular|Possessivartikel] Tochter",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "sent_id": "train-s10489",
+        "sent": "Zu Ende dieses Sommers 2009 veröffentlichte die Sängerin ihre dritte Single in diesem Jahr, Turn U On, die wochenlang in den albanischen Charts lief.",
+        "argument": "die Sängerin",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            8,
+            9
+        ],
+        "caseless_sent": "Zu Ende dieses Sommers 2009 veröffentlichte [bestimmter Artikel] Sängerin ihre dritte Single in diesem Jahr, Turn U On, die wochenlang in den albanischen Charts lief.",
+        "caseless_argument": "[bestimmter Artikel] Sängerin",
+        "caseless_bert_ids": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    {
+        "sent_id": "train-s7988",
+        "sent": "In Anhui und Henan hatte die lokale Führung gegen Ende der Hungersnot 1959 bis 1961 die Familienbetriebe in der Landwirtschaft wieder eingeführt.",
+        "argument": "die Führung",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            8,
+            10
+        ],
+        "caseless_sent": "In Anhui und Henan hatte [bestimmter Artikel] lokal Führung gegen Ende der Hungersnot 1959 bis 1961 die Familienbetriebe in der Landwirtschaft wieder eingeführt.",
+        "caseless_argument": "[bestimmter Artikel] Führung",
+        "caseless_bert_ids": [
+            8,
+            9,
+            10,
+            11,
+            12,
+            14
+        ]
+    },
+    {
+        "sent_id": "train-s7095",
+        "sent": "Ein angrenzendes Waldstück trägt heute den Namen Bloody Oaks (Blutige Eichen), was auf eine Schlacht hinweisen könnte, andere Quellen geben den Ort der Schlacht als Hornfield an.",
+        "argument": "Ein Waldstück",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            1,
+            6,
+            7
+        ],
+        "caseless_sent": "[indirekter Artikel] angrenzend Waldstück trägt heute den Namen Bloody Oaks (Blutige Eichen), was auf eine Schlacht hinweisen könnte, andere Quellen geben den Ort der Schlacht als Hornfield an.",
+        "caseless_argument": "[indirekter Artikel] Waldstück",
+        "caseless_bert_ids": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            10,
+            11
+        ]
+    },
+    {
+        "sent_id": "train-s8614",
+        "sent": "Die Musik wurde von Robert Cyril Gladstone Potter komponiert und der Text stammt von Archibald Leonard Luker.",
+        "argument": "der Text",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            15,
+            16
+        ],
+        "caseless_sent": "Die Musik wurde von Robert Cyril Gladstone Potter komponiert und [bestimmter Artikel] Text stammt von Archibald Leonard Luker.",
+        "caseless_argument": "[bestimmter Artikel] Text",
+        "caseless_bert_ids": [
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "sent_id": "train-s4496",
+        "sent": "Manchmal, aber nicht immer, zieht sich ein schwarzer Aalstrich über den Rücken.",
+        "argument": "ein Aalstrich",
+        "case": "nom",
+        "argument_position": "subject",
+        "argument_type": "noun",
+        "classification": 0,
+        "bert_token_ids": [
+            11,
+            14,
+            15,
+            16
+        ],
+        "caseless_sent": "Manchmal, aber nicht immer, zieht sich [indirekter Artikel] schwarz Aalstrich über den Rücken.",
+        "caseless_argument": "[indirekter Artikel] Aalstrich",
+        "caseless_bert_ids": [
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            18,
+            19,
+            20
+        ]
+    }
+]

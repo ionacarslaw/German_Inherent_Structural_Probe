@@ -1,0 +1,834 @@
+{
+    "val": [
+        {
+            "sent_id": "train-T-1001",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.407744797380164,
+            "1_prob": 0.592255202619836,
+            "correct": true
+        },
+        {
+            "sent_id": "train-T-578",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.407744797380164,
+            "1_prob": 0.592255202619836,
+            "correct": true
+        },
+        {
+            "sent_id": "train-T-231",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.07352521925978983,
+            "1_prob": 0.9264747807402102,
+            "correct": true
+        },
+        {
+            "sent_id": "train-T-42",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "train-T-79",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.07352521925978983,
+            "1_prob": 0.9264747807402102,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s361-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.407744797380164,
+            "1_prob": 0.592255202619836,
+            "correct": true
+        },
+        {
+            "sent_id": "train-P-520",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.07352521925978983,
+            "1_prob": 0.9264747807402102,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s4172",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.08380099435289956,
+            "1_prob": 0.9161990056471004,
+            "correct": true
+        },
+        {
+            "sent_id": "train-P-781",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "train-T-190",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.08276969656422606,
+            "1_prob": 0.9172303034357739,
+            "correct": true
+        },
+        {
+            "sent_id": "train-P-763",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.07352521925978983,
+            "1_prob": 0.9264747807402102,
+            "correct": true
+        },
+        {
+            "sent_id": "train-T-236",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "train-T-862",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.07352521925978983,
+            "1_prob": 0.9264747807402102,
+            "correct": true
+        },
+        {
+            "sent_id": "train-P-198",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.826259471335449,
+            "1_prob": 0.17374052866455097,
+            "correct": false
+        },
+        {
+            "sent_id": "train-P-798",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.07243525174477505,
+            "1_prob": 0.927564748255225,
+            "correct": true
+        },
+        {
+            "sent_id": "train-P-141",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.08380099435289956,
+            "1_prob": 0.9161990056471004,
+            "correct": true
+        },
+        {
+            "sent_id": "train-P-106",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "train-T-920",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.407744797380164,
+            "1_prob": 0.592255202619836,
+            "correct": true
+        },
+        {
+            "sent_id": "train-T-998",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "train-P-453",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s1144",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s4357",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": true
+        },
+        {
+            "sent_id": "dev-s84",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.875714318662148,
+            "1_prob": 0.12428568133785199,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s14091",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s12010",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s12397",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s7019",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s11777",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s938",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s4371",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s10223",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s14073",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s12188",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.9838414226093268,
+            "1_prob": 0.016158577390673185,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s8334",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.9838414226093268,
+            "1_prob": 0.016158577390673185,
+            "correct": true
+        },
+        {
+            "sent_id": "test-s639",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.9496498888513967,
+            "1_prob": 0.05035011114860336,
+            "correct": true
+        },
+        {
+            "sent_id": "test-s116",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s5864",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.875714318662148,
+            "1_prob": 0.12428568133785199,
+            "correct": true
+        },
+        {
+            "sent_id": "test-s380",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 1,
+            "0_prob": 0.407744797380164,
+            "1_prob": 0.592255202619836,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s12128",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s7513",
+            "case": "nom",
+            "actual_classification": 0,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": true
+        }
+    ],
+    "test": [
+        {
+            "sent_id": "train-s174-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s1028-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s1611-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s5679-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6086786174634338,
+            "1_prob": 0.3913213825365663,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-1",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-6",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-9",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-17",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-23",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-28",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-30",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-39",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-41",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-49",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.08380099435289956,
+            "1_prob": 0.9161990056471004,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-51",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-66",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-73",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-82",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-89",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": false
+        },
+        {
+            "sent_id": "test-P-90",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-107",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-113",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.08380099435289956,
+            "1_prob": 0.9161990056471004,
+            "correct": true
+        },
+        {
+            "sent_id": "test-P-119",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s8622-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "train-s10827-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.9838414226093268,
+            "1_prob": 0.016158577390673185,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s10855-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": false
+        },
+        {
+            "sent_id": "train-s13814-C",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.9838414226093268,
+            "1_prob": 0.016158577390673185,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-7",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6086786174634338,
+            "1_prob": 0.3913213825365663,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-9",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-14",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-17",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-18",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-20",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.08380099435289956,
+            "1_prob": 0.9161990056471004,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-22",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.4486687477516904,
+            "1_prob": 0.5513312522483096,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-25",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-30",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.08380099435289956,
+            "1_prob": 0.9161990056471004,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-35",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.07243525174477505,
+            "1_prob": 0.927564748255225,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-37",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6086786174634338,
+            "1_prob": 0.3913213825365663,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-39",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-41",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.07352521925978983,
+            "1_prob": 0.9264747807402102,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-48",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-51",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-54",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-60",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.1888802341498229,
+            "1_prob": 0.8111197658501771,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-63",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.407744797380164,
+            "1_prob": 0.592255202619836,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-64",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": false
+        },
+        {
+            "sent_id": "test-T-82",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.07243525174477505,
+            "1_prob": 0.927564748255225,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-89",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.07352521925978983,
+            "1_prob": 0.9264747807402102,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-90",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.407744797380164,
+            "1_prob": 0.592255202619836,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-96",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.07352521925978983,
+            "1_prob": 0.9264747807402102,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-97",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 1,
+            "0_prob": 0.407744797380164,
+            "1_prob": 0.592255202619836,
+            "correct": true
+        },
+        {
+            "sent_id": "test-T-102",
+            "case": "dat",
+            "actual_classification": 1,
+            "predicted_classification": 0,
+            "0_prob": 0.6999982736507526,
+            "1_prob": 0.30000172634924743,
+            "correct": false
+        }
+    ]
+}
