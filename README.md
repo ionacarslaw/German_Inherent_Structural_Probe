@@ -38,7 +38,7 @@ Command line arguments are case-sensitive.
 ```
 model:                 (str) The model you want to test (mBERT or BERT). Input bert or mbert.
 control:               (str) If you want to run a control probe (as detailed in appendix F in Carslaw et al., [2026]). To run the control probe, input True, otherwise input False. 
-dataset_type:          (str) The specific control datasets you want to use (as detailed in sec 4.1 in Carslaw et al., [2026]) - the results presented in the paper are from the random dataset_type. Input random, noun_only, pronoun_only, or same_token_amount.
+dataset_type:          (str) The specific control datasets you want to use (as detailed in sec 4.1 in Carslaw et al., [2026]) - the results presented in the paper are from the random dataset_type. Input random, noun_only, pronoun_only, or same_token_number.
 case_configuration:    (int) The specific case configuration you want (as detailed in sec 3 in Carslaw et al., [2026]). Input 1 for {'acc':0, 'dat':1}, 2  {'nom':0, 'dat':1}, 3 for {'nom':0, 'acc':0, 'dat':1}, 4 for {'nom':1, 'acc':0, 'dat':1}, or 5 for {'nom':0, 'acc':1, 'dat':1}.  
 caseless:              (str) If you want to run the cased experiment (experiment 1) or the caseless experiment (experiment 2). Input False for the cased experiment or True for the caseless experiment.
 --case spef CASE_SPEF: (str) If control equals True, choose the specifc control probe you want (e.g. nom_probe, acc_probe, all_probe). Input nom, acc, or all. 
