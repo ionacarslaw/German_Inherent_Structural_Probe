@@ -2,6 +2,7 @@
 
 This is a part of the code used in the paper Carslaw et al. (2026). If you use this code or datasets, please cite the following paper: 
 
+Carslaw, I., Bárány, A., Kastner, I. & Steedman, M., (2026) “An LLM Investigation into Inherent and Structural Case Representation: a German Case Study”, Society for Computation in Linguistics 9(1). doi: https://doi.org/10.7275/scil.4161
 
 Use is under a Creative Commons License.
 
